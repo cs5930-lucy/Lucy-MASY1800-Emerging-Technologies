@@ -1,0 +1,17 @@
+Validation executed in this session on 2026-10-12 America/New_York.
+Command: python3 agents/innovation_disruption/verify_submission.py
+
+FROZEN CORE INTACT
+PASS schema cases/contrast_1.json
+PASS schema cases/contrast_2.json
+PASS schema cases/insufficient_context.json
+PASS schema cases/primary.json
+PASS schema responses/contrast_1_response.json
+PASS schema responses/contrast_2_response.json
+PASS schema responses/insufficient_context_response.json
+PASS schema responses/luxury_v0_1_response.json
+PASS schema responses/primary_response.json
+PASS prompt reproducibility and recorded hashes
+PASS controlled comparison inputs
+Overall: PASS
+These checks verify structure, integrity and reproducibility, not factual truth or model reliability.

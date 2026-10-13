@@ -28,3 +28,10 @@ Use the supplied verified evidence register. State source dates and source type.
 
 ## Output
 Use exactly the frozen common output contract. Put all classification details in the existing finding strings, and the disruption judgment in organization_specific_finding. Put source objects in evidence; uncertainty, contrary interpretation, management implication, triggers and missing information in their existing fields. Do not add top-level fields. Include confidence, and explain limitations. Keep management implications within this specialist's scope.
+
+## Revision 0.2 requirements from the first luxury run
+For ambiguous cases, compare at least two concrete uses or interpretations. In luxury, distinguish internal ideation or disclosed fictional campaign imagery from synthetic imagery presented as documentation of real craftsmanship. State a provisional rating only if a baseline is explicit; otherwise withhold a firm rating and give conditional ratings. Identify which missing observation would favor each alternative.
+
+In risk_governance_implication explicitly compare adopting too early with responding too late and state which is larger, or why both cannot yet be ranked. Do not claim competitors already use AI at scale without case-relevant evidence. In change_monitoring_triggers identify an observable signal, the measurement context and the direction in which it would change the conclusion. Do not invent numeric significance thresholds.
+
+For every severity judgment give the causal mechanism and strongest counterargument. If the business-model input is absent, use a clear withheld judgment, list missing information, and do not default to Moderate. For High based on a supplied moat assumption, label it conditional exposure rather than demonstrated harm. Do not conclude Potentially Existential without a supported threat to viability.

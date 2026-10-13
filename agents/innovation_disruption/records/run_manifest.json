@@ -1,0 +1,39 @@
+{
+  "date": "2026-10-12 America/New_York",
+  "runtime": "This ChatGPT/Codex conversation; prompt contents reviewed and model answers saved as JSON. Python only serialized and validated answers.",
+  "limits": "One response per final case; same assistant developed and evaluated the instructions. No independent or repeated-run reliability claim.",
+  "runs": [
+    {
+      "case": "primary",
+      "prompt": "records/prompts/primary_prompt.txt",
+      "prompt_sha256": "ebc7dcbaa7800dc7de9f52228eaf5c474545d7c780b3b69a7fb9155513de22c4",
+      "response": "responses/primary_response.json",
+      "response_sha256": "1da68b70889ab8299f10a2fabd3bd3ba9ffbfd63a6cc99315b171f3faaaf9188",
+      "version": "0.2-student"
+    },
+    {
+      "case": "contrast_1",
+      "prompt": "records/prompts/contrast_1_prompt.txt",
+      "prompt_sha256": "3cdb56a57a445a9fd14b4912f15c06ddbb41a27dc30f9fe376917657d514fb22",
+      "response": "responses/contrast_1_response.json",
+      "response_sha256": "067ddb2f108d3bfa98999aed85803b79a3598dda103cf8b3769af728f49dc72e",
+      "version": "0.2-student"
+    },
+    {
+      "case": "contrast_2",
+      "prompt": "records/prompts/contrast_2_prompt.txt",
+      "prompt_sha256": "3d005a16379d80881cf1760dda9089c97413d4307913ae680ec034a4275cb351",
+      "response": "responses/contrast_2_response.json",
+      "response_sha256": "88f34d7f371732dcf66e6fffe84d7a3723fcdb1e0802703ab2e50a01774c3b9c",
+      "version": "0.2-student"
+    },
+    {
+      "case": "insufficient_context",
+      "prompt": "records/prompts/insufficient_context_prompt.txt",
+      "prompt_sha256": "070f32151f2fdea3fcccbcac8677621932269994d50f2c726524eab3d665dabb",
+      "response": "responses/insufficient_context_response.json",
+      "response_sha256": "d9d1997d079893c9ee43ff47e5acab3403779e6d63feb96338c837179372bb64",
+      "version": "0.2-student"
+    }
+  ]
+}
