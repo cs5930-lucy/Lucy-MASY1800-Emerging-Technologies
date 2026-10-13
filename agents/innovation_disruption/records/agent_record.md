@@ -125,5 +125,5 @@ Do not equate technological novelty with business impact. Preserve the causal li
 
 ## AI / verification note
 
-I supplied the design, professional perspective, cases, expected contrasts and boundaries. ChatGPT/Codex developed the specialist instructions and code, checked original source pages, generated and reviewed test outputs, and drafted this record. Extra case details are labeled assumptions. This assistance went beyond proofreading. The outputs are same-session AI-assisted examples, not field research. I remain responsible for reviewing the final submission.
+I developed the agent concept and initial analytical logic, selected the fashion use case and organizational contrasts, and steered its direction and boundaries. My contributions included the content-as-the-moat hypothesis, operational constraints and timing risks. ChatGPT/Codex implemented my design in specialist instructions and code within the course-provided scaffold, checked original sources, generated and reviewed test outputs, and drafted the documentation. Added case details are labeled assumptions; outputs are same-session AI-assisted examples. I remain responsible for reviewing the final submission.
 
