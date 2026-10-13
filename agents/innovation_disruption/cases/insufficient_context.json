@@ -1,0 +1,60 @@
+{
+  "emerging_technology": "Commercially deployed generative AI for marketing text and imagery; fixed scope across all cases.",
+  "intended_application": "Proposed use of generative AI for fashion model imagery, audience-specific image variants, captions and concept demand testing before production; no deployment is assumed.",
+  "industry_sector": "Apparel",
+  "time_horizon": "12 months, an assistant-defined test default, not a reported management deadline.",
+  "management_question": "What innovation type and business-model disruption exposure does this proposed application create over the stated horizon? Do not decide adoption.",
+  "users_stakeholders": "Customers, marketing and creative staff, models, photographers, agencies, suppliers and management.",
+  "adoption_posture": "Moderate/fast-follower, an assistant-defined test assumption, not an assessment of readiness.",
+  "evidence_register": [
+    {
+      "id": "S1",
+      "title": "Oslo Manual 2018, Chapter 2",
+      "publisher": "OECD and Eurostat",
+      "date": "2018-10-22",
+      "url": "https://www.oecd.org/en/publications/oslo-manual-2018_9789264304604-en/full-report/component-7.html",
+      "type": "Intergovernmental methodological source",
+      "verified": "2026-10-12 America/New_York",
+      "finding": "Paragraphs 2.19-2.20 require implementation and distinguish organizational novelty from novelty to the wider economy.",
+      "limit": "Does not establish this agent's breakthrough label or disruption thresholds; those are explicit analytical judgments."
+    },
+    {
+      "id": "S2",
+      "title": "Hierarchical Text-Conditional Image Generation with CLIP Latents",
+      "publisher": "Ramesh et al., original research paper",
+      "date": "2022-04-13",
+      "url": "https://arxiv.org/abs/2204.06125",
+      "type": "Primary research, abstract reviewed",
+      "verified": "2026-10-12 America/New_York",
+      "finding": "Describes text-conditioned image generation and variations using a two-stage model.",
+      "limit": "A technical demonstration, not evidence of accurate garment fit, commercial ROI or universal novelty across all generative AI."
+    },
+    {
+      "id": "S3",
+      "title": "DALL·E now available without waitlist",
+      "publisher": "OpenAI",
+      "date": "2022-09-28",
+      "url": "https://openai.com/index/dall-e-now-available-without-waitlist/",
+      "type": "Vendor historical product announcement",
+      "verified": "2026-10-12 America/New_York",
+      "finding": "Reports public access and a prior beta with pricing, supporting commercial deployment.",
+      "limit": "Historical commercialization evidence only; not current pricing, vendor comparison or independent performance evidence."
+    },
+    {
+      "id": "S4",
+      "title": "H&M continues its exploration of creativity with AI",
+      "publisher": "H&M Group",
+      "date": "2025-07-02",
+      "url": "https://hmgroup.com/news/hm-continues-its-exploration-of-creativity-with-ai/",
+      "type": "Company disclosure",
+      "verified": "2026-10-12 America/New_York",
+      "finding": "Reports released digital-twin fashion imagery co-created with a creative team.",
+      "limit": "Supports a fashion use case and coexistence with human creatives. Does not prove savings, consumer acceptance, workforce displacement or industry-wide adoption."
+    }
+  ],
+  "additional_context": "Synthetic classroom scenario. User-supplied premises are assumptions, not verified company facts. All extra operational details are assistant-defined test fixtures. Expected ratings are deliberately excluded from the input. Keep technology and application constant.",
+  "organization": "An unspecified fashion brand.",
+  "business_need": "Make content cheaper.",
+  "capabilities_constraints": "No information about revenue model, existing competitive advantage, suppliers, scale or content costs.",
+  "risk_consequence_context": "No case-specific consequences supplied."
+}
