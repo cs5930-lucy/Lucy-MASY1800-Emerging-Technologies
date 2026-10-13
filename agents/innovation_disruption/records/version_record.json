@@ -1,0 +1,12 @@
+{
+  "repository_name": "Lucy-MASY1800-Emerging-Technologies",
+  "repository_url": "https://github.com/cs5930-lucy/Lucy-MASY1800-Emerging-Technologies",
+  "publication_status": "Published privately on GitHub; analyzed candidate verified through the GitHub connection.",
+  "branch": "assignment-3-innovation-disruption",
+  "analyzed_candidate_commit": "866b6997bc55707b1f2052f9c442a6bd25188377",
+  "scaffold_baseline_commit": "46c96fea28b16ba1e60812f016c5d49bffa49b9b",
+  "initial_candidate_commit": "02d7a5c1dbc5cbefb51b6ffd2f9c1d18b0df1a78",
+  "agent_version": "0.2-student",
+  "note": "GitHub publication recreated the local development stages with identical file trees and new commit metadata. The analyzed candidate records code and tests. A later documentation commit adds the final Word record and publication links.",
+  "local_analyzed_candidate_commit": "fb041421315c9c9fae6c97d52c0c695252792edd"
+}

@@ -42,6 +42,12 @@ The additional student script checks the supplied input/output schemas, frozen h
 
 General classification stays a qualified commercialized breakthrough across these same-scope examples. This is a reasoned interpretation, not a forced answer for every emerging technology. Application implementation is not established.
 
-## Submission status
+## Published repository
 
-The local repository preserves original scaffold, initial candidate and revised candidate history. See records/version_record.json for the analyzed commit and current publication status. GitHub publication and the actual repository URL must be verified before treating the platform requirement as complete. Follow records/github_setup.md if direct publishing is unavailable.
+Repository: https://github.com/cs5930-lucy/Lucy-MASY1800-Emerging-Technologies
+
+Assignment branch: https://github.com/cs5930-lucy/Lucy-MASY1800-Emerging-Technologies/tree/assignment-3-innovation-disruption
+
+Analyzed candidate: https://github.com/cs5930-lucy/Lucy-MASY1800-Emerging-Technologies/commit/866b6997bc55707b1f2052f9c442a6bd25188377
+
+The private course repository preserves the original scaffold on main and the development stages on the assignment branch. The local archive retains its original Git history; commit metadata changed during GitHub publication, so use the remote commit in the Agent Record for the submitted reference. GitHub publication is complete. Brightspace submission and instructor access remain the student's responsibility.

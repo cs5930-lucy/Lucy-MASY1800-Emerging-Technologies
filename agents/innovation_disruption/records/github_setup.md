@@ -1,25 +1,25 @@
-# GitHub setup and submission
+# GitHub publication and submission
 
-## Prepared working copy
+## Verified publication
 
-The repository is named Lucy_Shen_Assignment3_Repository. The assignment branch is assignment-3-innovation-disruption. The main branch preserves the unchanged starting scaffold. The assignment branch contains the specialist, tests and submission record. The ZIP includes local Git history so the work does not need to be recreated.
+Repository: https://github.com/cs5930-lucy/Lucy-MASY1800-Emerging-Technologies
 
-## Publish with GitHub Desktop if direct publishing is unavailable
+Assignment branch: https://github.com/cs5930-lucy/Lucy-MASY1800-Emerging-Technologies/tree/assignment-3-innovation-disruption
 
-Extract the submission ZIP first. In GitHub Desktop choose File, Add Local Repository, Choose, and select the Lucy_Shen_Assignment3_Repository folder. Select Add Repository. Do not create a fresh empty repository over this folder.
+Analyzed code and test commit: https://github.com/cs5930-lucy/Lucy-MASY1800-Emerging-Technologies/commit/866b6997bc55707b1f2052f9c442a6bd25188377
 
-Keep the assignment-3-innovation-disruption branch selected and choose Publish repository. Use the repository name above and keep it private unless the instructor requests public access. Publish the branch. To preserve the original main branch on GitHub, switch to main and publish that branch too, then return to the assignment branch. Use Repository, View on GitHub and confirm the specialist files and commits appear.
+Visibility: private. The frozen scaffold is on main; Assignment 3 is on assignment-3-innovation-disruption. The existing empty course repository was used. Assignment 2's separate repository was not modified.
 
-Record the actual URL in records/version_record.json and in the Agent Record. If an instructor needs access to a private repository, arrange that access through the course's instructions. No repository URL or publication success should be invented.
+## Open the published work
 
-If adding this work to an existing course repository instead, first preserve its current work. Copy only this specialist folder into a working copy with the identical frozen core and run the included checks. The supplied standalone Git history is the simplest way to preserve this submission's version evidence.
+Open the assignment branch link and navigate to agents/innovation_disruption. The Agent Record is under records/Lucy_Shen_Assignment3_Agent_Record.docx. The README links the analytical and testing artifacts. To work on your Mac, clone the repository through GitHub Desktop and select the assignment branch.
 
-## Submit in Brightspace
+The published commits recreate the local development stages with identical file trees and different metadata. Use the remote analyzed commit above in the submission. The local archive retains its original history for provenance.
 
-Submit the completed Agent Record and the working agent package or repository reference according to the current Brightspace submission fields. The uploaded materials do not show the current deadline, exact upload fields or private-repository access instructions. Those platform details remain unverified. The prepared package contains the requested analytical and testing artifacts.
+## Brightspace
 
-## Official references
+Submit the Agent Record and assignment branch link or package according to the current submission fields. Because the repository is private, confirm instructor access before relying on the link alone; the downloadable submission package provides the files directly. No collaborator was added automatically. The uploaded materials did not provide the current deadline, exact upload fields or instructor's GitHub account.
 
-GitHub Desktop local repository instructions: https://docs.github.com/en/desktop/adding-and-cloning-repositories/adding-a-repository-from-your-local-computer-to-github-desktop
+## Official GitHub reference
 
-Publishing an existing project: https://docs.github.com/en/desktop/adding-and-cloning-repositories/adding-an-existing-project-to-github-using-github-desktop
+https://docs.github.com/en/desktop/adding-and-cloning-repositories/cloning-and-forking-repositories-from-github-desktop
