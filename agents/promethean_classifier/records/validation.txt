@@ -1,0 +1,10 @@
+v0_1_primary.json: VALIDATION PASSED; declared schema constraints passed
+v0_2_contrast_1.json: VALIDATION PASSED; declared schema constraints passed
+v0_2_contrast_2.json: VALIDATION PASSED; declared schema constraints passed
+v0_2_insufficient_evidence.json: VALIDATION PASSED; declared schema constraints passed
+v0_2_primary.json: VALIDATION PASSED; declared schema constraints passed
+Four input cases pass declared schema constraints.
+Broad finding stable across three same-technology cases.
+Safety deferral, hype refusal and evidence abstention checks passed.
+FROZEN CORE INTACT
+Checks inspect saved representative responses, not statistical repeatability or application effectiveness.
