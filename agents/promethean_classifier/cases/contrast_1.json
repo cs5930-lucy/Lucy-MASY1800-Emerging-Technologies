@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Generative artificial intelligence, with large language models as the evidenced subset",
+  "intended_application": "Use approved product specifications and raw product images to propose a headline, three key specifications, a caption, and image placement, plus a visual mockup for retouching in Canva for Instagram or YouTube.",
+  "organization": "Hypothetical safety-textile supplier marketing team with no approved product-version register or technical review owner.",
+  "industry_sector": "Marketing for safety-related textiles; no specific legal determination is assumed.",
+  "business_need": "Reduce the logistics of converting screenshot specifications and images into finished marketing content. Lucy targets an 80% efficiency increase; no baseline or verified benefit exists.",
+  "users_stakeholders": "Lucy as content creator and final reviewer; technical product owner; marketing audience.",
+  "adoption_posture": "Conservative risk averse.",
+  "capabilities_constraints": "Scattered screenshot specifications and images; no approved product-version register or technical review owner; Canva access exists.",
+  "risk_consequence_context": "Unsupported protective-performance claims may affect purchasing and safety expectations; errors have higher consequences.",
+  "management_question": "Does technological significance justify content drafting before evidence ownership is established?",
+  "time_horizon": "Proposed four-week evaluation; longer-run significance assessed over ten years or more without predicting a date.",
+  "additional_context": "Personal input is drawn from Lucy’s visible answers. She accepts a faster editable draft and wants to make final retouches. Do not present desired capabilities or efficiency as achieved. Efficiency metric must be agreed: 80% higher accepted outputs/hour equals time per output divided by 1.8, whereas 80% less time equals time multiplied by 0.2. These are different targets."
+}
