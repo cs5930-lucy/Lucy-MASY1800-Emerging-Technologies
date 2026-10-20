@@ -1,0 +1,66 @@
+{
+  "agent": {
+    "name": "Promethean Technology Classification Agent",
+    "specialty": "Technological significance and bounded organizational implications",
+    "version": "0.3"
+  },
+  "analytical_question": "What significance is justified by this evidence, and what weight should it carry in this organization now?",
+  "general_et_finding": "Potentially Promethean, provisional, for foundation language and code models; demonstrated breakthrough is the evidentiary floor. C1 supported: S8 shows reusable text-specified language capabilities beyond requiring a separate task-specific fine-tuning workflow. This is an architectural-use comparison, not a claim that all prior automation was fixed templates. C2 supported at a screening level: S1 and S6 address writing and executable software production. C3 partial but specific: reusable generation could lower some knowledge-work costs, expand who can produce useful artifacts, and reorganize work and knowledge access over time. The first link has empirical support; later institutional links remain inference. C4 partial: S4 and S7 expose reliability and integration constraints; infrastructure sustainability and equitable access remain unknown. These gaps qualify the potential label and prevent a claim of achieved civilization-level change.",
+  "application_finding": "The proposed headline, three specifications, caption, image placement and Canva mockup improve an existing marketing process. Local significance is operational and unmeasured, with possible larger value if reliable consolidation materially reduces total work. The broad label does not establish that this application is a breakthrough.",
+  "organization_specific_finding": "For this hypothetical moderate fast-follower team, existing review capacity supports considering a controlled internal comparison using approved product sources. Lucy keeps technical meaning, wording and final design approval. The source controls and four-week horizon are case assumptions.",
+  "evidence": [
+    {
+      "claim": "Language tasks were specified through text demonstrations without task-specific weight updates.",
+      "source_or_reference": "S8 https://arxiv.org/abs/2005.14165",
+      "date_or_recency": "2020-05-28; v4 2020-07-22; accessed 2026-10-20",
+      "evidence_type": "Original research or original researcher account",
+      "notes": "Scope and access limitations: records/source_register.json."
+    },
+    {
+      "claim": "Randomized professional writing task experiment supports task-level capability gains.",
+      "source_or_reference": "S1 https://shakkednoy.com/Noy%20Zhang%20NBER%20SI.pdf",
+      "date_or_recency": "2023; accessed 2026-10-19",
+      "evidence_type": "Original research or original researcher account",
+      "notes": "Scope and access limitations: records/source_register.json."
+    },
+    {
+      "claim": "Controlled programming task: AI-assisted participants completed a JavaScript HTTP server faster.",
+      "source_or_reference": "S6 https://arxiv.org/abs/2302.06590",
+      "date_or_recency": "2023-02-13 v1; accessed 2026-10-20",
+      "evidence_type": "Original research or original researcher account",
+      "notes": "Scope and access limitations: records/source_register.json."
+    },
+    {
+      "claim": "Experienced developers took 19% longer with AI on the studied repository tasks.",
+      "source_or_reference": "S7 https://metr.org/Early_2025_AI_Experienced_OS_Devs_Study-paper.pdf",
+      "date_or_recency": "2025; tools studied February to June 2025; accessed 2026-10-20",
+      "evidence_type": "Original research or original researcher account",
+      "notes": "Scope and access limitations: records/source_register.json."
+    },
+    {
+      "claim": "Researchers caution that selection and timing problems undermine interpretation of their later productivity study.",
+      "source_or_reference": "S9 https://metr.org/blog/2026-02-24-uplift-update/",
+      "date_or_recency": "2026-02-24; accessed 2026-10-20",
+      "evidence_type": "Original research or original researcher account",
+      "notes": "Scope and access limitations: records/source_register.json."
+    }
+  ],
+  "contrary_evidence_or_limitations": [
+    "Strongest challenge: task gains may remain uneven and costly to integrate rather than becoming a durable societal transformation. S7 challenges automatic benefit transfer; S9 cautions that later measurement is itself difficult.",
+    "S3 challenges already-realized economic impact, not eventual potential. Full methods access remains incomplete.",
+    "The pathway to institutional change is inferred; no study here proves it or the complete Canva workflow."
+  ],
+  "confidence_and_uncertainty": "High in the existence of demonstrated capabilities; moderate to low in provisional Promethean potential; low in local benefit estimates. Qualitative judgments, not probabilities. Selected evidence is dated rather than exhaustive.",
+  "value_opportunity_implication": "Potentially reduce effort between raw specifications and an accepted asset. Smaller reliable savings may be worthwhile; the earlier 80% goal is not a minimum decision threshold.",
+  "risk_governance_implication": "Match product, version, numbers, units and images to approved evidence. Preserve accountable technical and final publication review.",
+  "recommendation_management_implication": "Consider a bounded internal comparison after evidence owners approve it. Broad potential merits learning and monitoring, while observed quality and total effort should govern continuation. This is not deployment authorization.",
+  "change_monitoring_triggers": [
+    "Strengthen the upper classification if independent longitudinal evidence supports durable institutional effects across settings.",
+    "Weaken it if reusable capability or integration benefits repeatedly fail beyond narrow tasks.",
+    "Review local total effort after matched manual and assisted tasks, including failed drafts and retouching."
+  ],
+  "abstention_or_more_information_needed": [
+    "No claim of achieved civilization-level transformation.",
+    "Need an agreed efficiency metric, manual baseline and evidence for image and Canva integration before a local value judgment."
+  ]
+}

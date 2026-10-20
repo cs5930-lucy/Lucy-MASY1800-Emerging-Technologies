@@ -43,5 +43,45 @@
     "accessed": "2026-10-19",
     "finding": "Original RAG work combines a retriever and generator for knowledge-intensive tasks.",
     "limit": "Does not demonstrate Canva mockups or eliminate source and generation errors."
+  },
+  {
+    "id": "S6",
+    "title": "Peng et al The Impact of AI on Developer Productivity",
+    "url": "https://arxiv.org/abs/2302.06590",
+    "date": "2023-02-13 v1",
+    "accessed": "2026-10-20",
+    "finding": "Controlled programming task: AI-assisted participants completed a JavaScript HTTP server faster.",
+    "limit": "One assigned task; vendor-affiliated authors; no claim of economy-wide impact.",
+    "locator": "Abstract and experiment design"
+  },
+  {
+    "id": "S7",
+    "title": "Becker et al METR developer productivity trial",
+    "url": "https://metr.org/Early_2025_AI_Experienced_OS_Devs_Study-paper.pdf",
+    "date": "2025; tools studied February to June 2025",
+    "accessed": "2026-10-20",
+    "finding": "Experienced developers took 19% longer with AI on the studied repository tasks.",
+    "limit": "16 developers, 246 tasks; setting-specific estimate, not a current universal rate.",
+    "locator": "Abstract; section 1; Figure 1"
+  },
+  {
+    "id": "S8",
+    "title": "Brown et al Language Models are Few-Shot Learners",
+    "url": "https://arxiv.org/abs/2005.14165",
+    "date": "2020-05-28; v4 2020-07-22",
+    "accessed": "2026-10-20",
+    "finding": "Language tasks were specified through text demonstrations without task-specific weight updates.",
+    "limit": "Comparative benchmark evidence, with uneven performance and methodological limits; not proof of societal impact.",
+    "locator": "Abstract"
+  },
+  {
+    "id": "S9",
+    "title": "METR We are Changing our Developer Productivity Experiment Design",
+    "url": "https://metr.org/blog/2026-02-24-uplift-update/",
+    "date": "2026-02-24",
+    "accessed": "2026-10-20",
+    "finding": "Researchers caution that selection and timing problems undermine interpretation of their later productivity study.",
+    "limit": "Do not use S7 as a timeless rate or the later estimates as a reliable replacement.",
+    "locator": "Opening findings and study-design limitations"
   }
 ]

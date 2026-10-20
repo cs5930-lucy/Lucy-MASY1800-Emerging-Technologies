@@ -1,0 +1,48 @@
+{
+  "agent": {
+    "name": "Promethean Technology Classification Agent",
+    "specialty": "Technological significance and bounded organizational implications",
+    "version": "0.3"
+  },
+  "analytical_question": "What significance is justified by this evidence, and what weight should it carry in this organization now?",
+  "general_et_finding": "The best qualified label remains potentially Promethean for foundation language and code models, with breakthrough demonstrated. C1 and screening-level C2 have technical and task evidence; C3 is a conditional societal pathway and C4 remains partly unresolved. Funding and headlines contribute zero support to any criterion.",
+  "application_finding": "The application is the same proposed content-production improvement with no verified savings.",
+  "organization_specific_finding": "The primary organization and posture are unchanged. An executive’s demand for automatic publication is evaluated as pressure, not as authority to bypass evidence or review.",
+  "evidence": [
+    {
+      "claim": "Language tasks were specified through text demonstrations without task-specific weight updates.",
+      "source_or_reference": "S8 https://arxiv.org/abs/2005.14165",
+      "date_or_recency": "2020-05-28; v4 2020-07-22; accessed 2026-10-20",
+      "evidence_type": "Original research or original researcher account",
+      "notes": "Scope and access limitations: records/source_register.json."
+    },
+    {
+      "claim": "Controlled programming task: AI-assisted participants completed a JavaScript HTTP server faster.",
+      "source_or_reference": "S6 https://arxiv.org/abs/2302.06590",
+      "date_or_recency": "2023-02-13 v1; accessed 2026-10-20",
+      "evidence_type": "Original research or original researcher account",
+      "notes": "Scope and access limitations: records/source_register.json."
+    },
+    {
+      "claim": "Official guidance identifies confabulation and recommends contextual evaluation and source verification.",
+      "source_or_reference": "S4 https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf",
+      "date_or_recency": "July 2024; accessed 2026-10-19",
+      "evidence_type": "Official guidance",
+      "notes": "Scope and access limitations: records/source_register.json."
+    }
+  ],
+  "contrary_evidence_or_limitations": [
+    "Public excitement cannot resolve the inferred step from capability to durable societal effects.",
+    "Source mistakes and review effort can erase expected local gains."
+  ],
+  "confidence_and_uncertainty": "Moderate to low broad potential; local value unknown. The hype statement does not increase confidence.",
+  "value_opportunity_implication": "Retain the learning opportunity without inventing an economic return.",
+  "risk_governance_implication": "Reject automatic publication. Technical meaning and product claims still require accountable approval.",
+  "recommendation_management_implication": "Consider only the same controlled internal comparison. Reject the requested publication shortcut and explain that societal potential grants no local permission.",
+  "change_monitoring_triggers": [
+    "Reassess on verified capability, societal or workflow evidence; publicity alone is not a trigger for a higher classification."
+  ],
+  "abstention_or_more_information_needed": [
+    "No authorization for direct publication or a claimed 80% gain."
+  ]
+}

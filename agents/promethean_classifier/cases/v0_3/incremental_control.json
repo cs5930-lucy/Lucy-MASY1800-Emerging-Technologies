@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "A fixed-rule product-caption template inserting approved fields into prewritten sentences",
+  "intended_application": "Use approved product specifications and raw product images to propose a headline, three key specifications, a caption, and image placement, plus a visual mockup for retouching in Canva for Instagram or YouTube.",
+  "organization": "Hypothetical textile manufacturer marketing team inspired by Lucy Shen’s reported workflow; organizational controls and resources below are case assumptions.",
+  "industry_sector": "Textile product marketing",
+  "business_need": "Reduce the effort of moving product specifications and images into accepted marketing content. The earlier 80% efficiency goal is aspirational; Lucy accepts smaller savings with reliable results.",
+  "users_stakeholders": "Lucy as content creator and final reviewer; technical product owner; marketing audience.",
+  "adoption_posture": "Moderate fast follower, assumed for this test.",
+  "capabilities_constraints": "Existing Canva workflow and a human reviewer are assumed. Screenshot extraction, image matching, layout generation and Canva transfer are untested complementary capabilities; RAG supplies approved reference text rather than the whole workflow.",
+  "risk_consequence_context": "Wrong numbers, units, product identity or technical meaning could mislead customers. Human checks technical meaning, wording and final design before publication.",
+  "management_question": "How much should broad technological significance influence whether to evaluate this bounded content workflow now?",
+  "time_horizon": "Proposed four-week evaluation; longer-run significance assessed over ten years or more without predicting a date.",
+  "additional_context": "SYNTHETIC BOUNDARY CASE, not empirical research: assume verified manual-copy comparison shows 10% less preparation time, identical final claims and no new generative capability. No wider capability is asserted."
+}

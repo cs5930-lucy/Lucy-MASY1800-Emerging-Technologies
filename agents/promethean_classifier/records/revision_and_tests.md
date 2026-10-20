@@ -1,28 +1,31 @@
-# Revision and test record
+# Version 0 3 revision and test record
 
-Responses were generated and saved by ChatGPT with Codex in this interactive session on 19 October 2026 after reviewing the assembled scaffold, case and verified evidence. They are representative analytical outputs, not independent API calls or a blind repeated-run experiment. The shared broad finding was deliberately retained across equal-evidence contexts. This verifies the saved examples' consistency, not statistical robustness. No Canva application or runtime integration was built or tested.
+## Provenance and limits
+On 20 October 2026 ChatGPT with Codex built six packets and composed new representative responses for their case facts in the current conversation. Each response has its own analytical wording; no sibling response was copied and edited to manufacture an invariant broad finding. The same assistant context already knew the framework and review goals, so these are not blind independent model runs, repeated-run measurements or evidence of statistical robustness. The saving script writes responses; it does not call a model. Original 0.1 and 0.2 evidence remains preserved.
 
-## Preserved weakness
-Version 0.1 called the technology potentially Promethean with moderate confidence based mainly on a writing study and a general assertion of breadth. Its contrary evidence was only a generic reliability caveat. That falls short of the assignment's challengeable criteria and strongest-counterargument requirements, even though the JSON validates. This first analytical draft was preserved before revision; it is not an observed failure from production or a deliberately seeded software defect.
+## Evaluation criteria
+A satisfactory example must preserve the common contract, justify a criterion-based broad finding, separate local consequences, resist non-evidentiary pressure, disclose missing evidence and respect its analytical authority. Expected results belong to this evaluator record, not to the input cases. The supplemental checker checks saved structure, isolated input changes, label presence and packet hashes; the semantic assessment below is a manual review, not an automated proof.
 
-## Revision
-Version 0.2 requires four assessed criteria, a named comparator, evidence for and against the upper label, qualitative confidence at each level and qualification when breadth or durable effects remain unresolved. The source packet was expanded, including an original researcher account with recent contrary findings. Both instructions and evidence changed, so the improvement cannot be attributed to prompt changes alone. The primary operational case stayed fixed.
-
-| Case | Broad finding | Local implication | Outcome |
+| Case | Observed broad conclusion | Observed bounded implication | Manual assessment |
 | --- | --- | --- | --- |
-| Primary textile marketing | Breakthrough; higher possibility qualified | Consider a controlled internal evaluation | Evidence and final review required |
-| Conservative safety-textile supplier | Same broad finding | Defer performance-claim drafting | Missing product register and technical reviewer drive the change |
-| Aggressive posture plus hype | Same broad finding | Earlier learning may be considered; no automatic publication | Funding and headlines do not change evidence |
-| Unidentified SparkSphere | Abstain on every label | Request a definition and comparative evidence | Missing evidence does not imply incremental status |
+| Primary | Potentially Promethean, provisional; breakthrough floor | Consider approved internal comparison | Reasoning exposes inferred societal links and unmeasured value |
+| Safety supplier | Same qualified significance | Defer performance claims until evidence controls exist | Consequences and absent controls change local recommendation |
+| Posture only | Same qualified significance | Earlier learning possible; same approval standards | Only adoption_posture differs from primary |
+| Hype only | Same qualified significance | Refuse automatic publication | Only additional_context differs; enthusiasm supplies no evidence |
+| Unknown technology | Abstain on all labels | Request scope and original comparison | Missing evidence is not classified as incremental |
+| Fixed template control | Incremental under synthetic premises | Consider a simpler future comparator | A saving alone does not become breakthrough |
 
-## Strongest case for the higher label
-Inference: a reusable capability that lowers the effort of producing and using knowledge could reshape production, access to expertise and institutional work over a decade or longer. S1 and S2 support bounded capability benefits; they do not establish the full pathway.
+All examples satisfy the manual criteria above within their stated limits. The boundary control is expressly hypothetical; its assumed saving is not a measured result. General findings need semantic consistency, not identical strings. Safety is a multivariable contrast, so its effect cannot be attributed to posture alone; the posture-only case addresses that ambiguity.
 
-## Strongest case against the higher label
-S3's original researchers report task changes without detectable average earnings or recorded-hours effects in their Danish observation window. Alongside the limited breadth of S1 and S2, this challenges an assertion that civilization-level change is already demonstrated. The observation window ends in December 2024 although the author report is dated October 2026. It does not rule out later or international transformation. Direct full NBER retrieval failed, so this package identifies the author account and retains the methods-review limitation.
+## Preserved failures and changes
+Version 0.1 used vague breadth and task evidence for a moderately confident potentially Promethean label. Version 0.2 improved caution, but C1 still allowed material improvement to stand in for a new capability class. Its cases coupled posture with hype, its instructions demanded matching general findings, and its saved contrast outputs were derived from a shared response. These facts limit the earlier tests as behavioral evidence.
+Version 0.3 separates new capability from productivity, adds cross-setting technical evidence, clarifies potential versus realized societal impact, uses isolated posture and hype contrasts, and removes any predetermined label or exact-text instruction from model-facing cases. It presents a conditional societal pathway and a stronger opposing interpretation. Both definitions and evidence changed, so the new classification is not a controlled estimate of prompt improvement.
 
-## What stayed stable and what changed
-Same technology and evidence yielded the same general classification. Missing source controls and higher consequences changed the bounded recommendation from considering evaluation to deferral. Aggressive posture changed possible learning timing while leaving technical review requirements intact.
+## Why the final label changed
+Lucy independently chose potentially Promethean during the review. Her preference is recorded in student_input.json and is not included as classification evidence or a required answer in the packets. The revised analysis can defend that qualified label because S8 strengthens the capability argument, S6 expands the breadth evidence, and the prospective rule explicitly allows inferred later societal links while exposing their failure conditions. Demonstrated breakthrough remains the conservative floor. A reviewer who gives more weight to the uncertain later links could reasonably retain breakthrough with qualified potential.
 
-## Verification limits
-The supplied validator and a small supplemental checker cover all structural constraints declared by the frozen simple schemas, input completeness, stable findings and expected saved-response boundaries. Manual review checked reasoning against criteria. Neither check proves factual completeness, independent student agreement, resistance to every adversarial prompt or future repeatability. A fresh ChatGPT rerun is a useful remaining test.
+## Opposing evidence and disconfirmation
+S7 challenges easy transfer of task gains; its 2026 S9 update warns against timeless extrapolation. S3 challenges claims of already-realized broad economic effects but cannot settle eventual transformation. The upper label should weaken if well-designed replications show useful capabilities remain narrow, verification costs routinely erase benefits across settings, or infrastructure and governance barriers keep the pathway from scaling. Strong longitudinal cross-domain evidence of lasting institutional change would strengthen it. These are proposed reassessment rules, not forecasts.
+
+## Human handoff
+A team member can challenge any criterion, source or inference using the saved cases and URLs. Reproduce with the course build_prompt.py, paste one packet into a fresh ChatGPT conversation, save the JSON and run validate_response.py. A fresh-context rerun is still useful additional evidence, not a prerequisite secretly represented as completed here. No Canva tool was implemented and no local time-saving target was tested.

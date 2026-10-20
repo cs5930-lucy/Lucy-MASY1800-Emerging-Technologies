@@ -1,0 +1,47 @@
+[
+  {
+    "id": "S1",
+    "title": "Noy and Zhang Experimental evidence on productivity effects",
+    "url": "https://shakkednoy.com/Noy%20Zhang%20NBER%20SI.pdf",
+    "date": "2023",
+    "accessed": "2026-10-19",
+    "finding": "Randomized professional writing task experiment supports task-level capability gains.",
+    "limit": "Does not establish complete textile workflow performance or societal transformation."
+  },
+  {
+    "id": "S2",
+    "title": "Brynjolfsson Li and Raymond Generative AI at Work published version",
+    "url": "https://academic.oup.com/qje/article/140/2/889/7990658",
+    "date": "May 2025; QJE 140(2)",
+    "accessed": "2026-10-19",
+    "finding": "Customer-support field evidence supports measurable workplace capability benefits.",
+    "limit": "One studied workplace setting; heterogeneous effects; not society-wide evidence."
+  },
+  {
+    "id": "S3",
+    "title": "Humlum and Vestergaard author report of Still waters rapid currents",
+    "url": "https://www.brookings.edu/articles/still-waters-rapid-currents-early-labor-market-transformation-under-generative-ai/",
+    "date": "2026-10-06; linked administrative data through December 2024",
+    "accessed": "2026-10-19",
+    "finding": "Authors report no detectable average earnings or recorded-hours effect in their Danish study, despite changes in tasks.",
+    "limit": "Original researcher account, not a substitute for full methods review; direct NBER page retrieval failed. Country and observation window limit generalization. Does not rule out future transformation."
+  },
+  {
+    "id": "S4",
+    "title": "NIST AI 600-1 Generative AI Profile",
+    "url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf",
+    "date": "July 2024",
+    "accessed": "2026-10-19",
+    "finding": "Official guidance identifies confabulation and recommends contextual evaluation and source verification.",
+    "limit": "Risk framework, not evidence of the frequency of errors in this proposed workflow."
+  },
+  {
+    "id": "S5",
+    "title": "Lewis et al Retrieval Augmented Generation",
+    "url": "https://arxiv.org/abs/2005.11401",
+    "date": "2020; arXiv version 4 revised 2021-04-12",
+    "accessed": "2026-10-19",
+    "finding": "Original RAG work combines a retriever and generator for knowledge-intensive tasks.",
+    "limit": "Does not demonstrate Canva mockups or eliminate source and generation errors."
+  }
+]

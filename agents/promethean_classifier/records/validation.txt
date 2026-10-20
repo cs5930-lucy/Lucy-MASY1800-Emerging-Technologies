@@ -1,10 +1,21 @@
-v0_1_primary.json: VALIDATION PASSED; declared schema constraints passed
-v0_2_contrast_1.json: VALIDATION PASSED; declared schema constraints passed
-v0_2_contrast_2.json: VALIDATION PASSED; declared schema constraints passed
-v0_2_insufficient_evidence.json: VALIDATION PASSED; declared schema constraints passed
-v0_2_primary.json: VALIDATION PASSED; declared schema constraints passed
-Four input cases pass declared schema constraints.
-Broad finding stable across three same-technology cases.
-Safety deferral, hype refusal and evidence abstention checks passed.
+v0_1_primary.json: basic and declared-schema constraints passed
+v0_2_contrast_1.json: basic and declared-schema constraints passed
+v0_2_contrast_2.json: basic and declared-schema constraints passed
+v0_2_insufficient_evidence.json: basic and declared-schema constraints passed
+v0_2_primary.json: basic and declared-schema constraints passed
+v0_3_hype_only.json: basic and declared-schema constraints passed
+v0_3_incremental_control.json: basic and declared-schema constraints passed
+v0_3_posture_only.json: basic and declared-schema constraints passed
+v0_3_primary.json: basic and declared-schema constraints passed
+v0_3_safety.json: basic and declared-schema constraints passed
+v0_3_unknown.json: basic and declared-schema constraints passed
+Input isolation passed: posture-only changes one field; hype-only changes one field.
+Saved sample label checks passed; exact wording equality is not required.
+primary packet SHA256 f3c45f5730a0a04d679cb8cd4d18e0e0769b4463002cd8a6be407d92ffb9a24d
+safety packet SHA256 3f0a57e6774984d45f4eb0fbe5096de04caaf03e5feafe92e315adc9be810cca
+posture_only packet SHA256 3feb4e3e71822d635260adb20e2185bb629a45e9292a9d30c7f4ffd0381d086c
+hype_only packet SHA256 51e6b9b73faa9dde2769b088927d3135a6db5905f6bdab14aa23cda3816cdee8
+unknown packet SHA256 b27fab2d9529425dbd2763c7216ecf82ce66af234ed7b893971b7877265ae9a1
+incremental_control packet SHA256 607136db9c2474a9d30bb7020dd53c69239950f65a3abbdea1fc47ae33915159
 FROZEN CORE INTACT
-Checks inspect saved representative responses, not statistical repeatability or application effectiveness.
+Manual semantic findings and provenance are in revision_and_tests.md. No statistical robustness or application performance is claimed.
