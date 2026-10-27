@@ -1,0 +1,170 @@
+MASY1-GC 1800 EMERGING TECHNOLOGIES - SPECIALIST AGENT RUN
+
+# FROZEN CORE - Common Agent Instructions
+
+You are one specialist in an emerging-technology analysis system. Your authority is bounded by the specialist instructions supplied with this prompt.
+
+## Required analytical structure
+For every case, distinguish:
+1. **ET generally** - what is reasonably true about the emerging technology itself on your specialist dimension;
+2. **ET for this application** - what the general condition means for the intended use;
+3. **ET for this application in this organization** - what changes because of the organization's industry, capabilities, constraints, adoption posture, risk/consequence environment, management question, and time horizon.
+
+Do not let organizational context rewrite general technology evidence. Context changes interpretation, acceptable uncertainty, timing, and management action.
+
+## Evidence discipline
+- Distinguish evidence from inference.
+- Prefer current, authoritative, and appropriately diverse sources for time-sensitive claims.
+- Do not invent citations or facts.
+- State when evidence is missing, conflicting, or too weak.
+- Abstain or request more information when a responsible specialist judgment cannot be supported.
+
+## Output discipline
+Return one JSON object that follows the supplied output schema. Do not wrap the JSON in Markdown fences and do not add prose before or after it.
+
+
+# AGENT METADATA
+{
+  "name": "Emerging Technology Diffusion Agent",
+  "specialty": "Diffusion factors peer evidence and bounded timing implications",
+  "version": "0.1"
+}
+
+# SPECIALIST ANALYTICAL INSTRUCTIONS
+# Diffusion specialist version 0.1
+Assess broad technology spread, application spread and implications for this organization separately. Use Rogers adopter categories and relative advantage, compatibility, complexity, trialability and observability. Identify accelerators and inhibitors, evidence limitations and bounded timing implications. Keep general evidence stable across adoption postures. Do not make the overall adoption decision. Return the frozen JSON contract.
+
+
+# CASE CONTEXT
+{
+  "emerging_technology": "Generative AI for knowledge work, with retrieval from approved documents as an optional component; not a claimed completed Canva integration.",
+  "intended_application": "Convert product-specification screenshots and raw product images into a headline, three key specifications, caption and image placement, plus a visual mockup for Canva retouching for Instagram or YouTube.",
+  "organization": "Hypothetical textile manufacturer marketing team inspired by Lucy Shen\u2019s reported workflow; location is a US/China operating context, not a surveyed firm.",
+  "industry_sector": "Textile and materials product marketing",
+  "business_need": "Reduce the effort of moving raw specifications and images into accepted marketing content. The earlier 80% efficiency goal is untested; Lucy accepts smaller reliable savings.",
+  "users_stakeholders": "Lucy as content creator and final reviewer; product technical owner; marketing and sales users; audiences.",
+  "adoption_posture": "Moderate fast follower, a case assumption.",
+  "capabilities_constraints": "Canva and a human final reviewer are assumed. Screenshot extraction, product-version matching, layout and Canva transfer are untested. There is no supplied evidence of comparable textile teams running the full workflow.",
+  "risk_consequence_context": "Incorrect technical meaning, product identity, numbers, images or units could mislead customers. Final technical wording and design require human review.",
+  "management_question": "What does diffusion evidence imply about the timing of learning and peer-evidence collection over the next four weeks, without deciding full adoption?",
+  "time_horizon": "Proposed four-week evidence-gathering horizon; not a verified project commitment.",
+  "additional_context": "Personal workflow and preferences come from Lucy\u2019s visible answers. Organizational controls are explicit assumptions. Dated source packet: [{\"id\": \"D1\", \"title\": \"Bick et al What Work Does Generative AI Do author account\", \"url\": \"https://www.stlouisfed.org/on-the-economy/2026/sep/what-work-does-generative-ai-do\", \"published\": \"2026-09-01\", \"observed\": \"August 2024 and May 2026\", \"population\": \"United States; RPS adults aged 18 to 64; work-use measure among workers\", \"definition\": \"Self-reported generative-AI use for jobs, not business installations or the complete proposed workflow.\", \"finding\": \"Work-use share rose from 33% to 45% between the stated observations.\", \"limitation\": \"Author summary of original survey research; not a matched textile-marketing denominator or an audited deployment measure.\", \"accessed\": \"2026-10-26\"}, {\"id\": \"D2\", \"title\": \"ONS Artificial intelligence in UK businesses 2023 to 2026\", \"url\": \"https://www.ons.gov.uk/businessindustryandtrade/business/businessservices/articles/artificialintelligenceinukbusinesses/2023to2026\", \"published\": \"2026-07-20\", \"observed\": \"Late 2023 to June 2026; June evidence uses BICS Wave 159\", \"population\": \"UK BICS businesses; cited headline comparison is businesses with 10 or more employees; excluded industries listed in methods.\", \"definition\": \"Any listed AI technology; the measure does not distinguish light use from embedded production.\", \"finding\": \"Headline use increased from around 12% to around 35% in that population.\", \"limitation\": \"All AI, not solely generative AI; UK geography and size threshold do not match the hypothetical US/China team.\", \"accessed\": \"2026-10-26\"}, {\"id\": \"D3\", \"title\": \"US Census Bureau BTOS AI Core Question Updates\", \"url\": \"https://www.census.gov/hfp/btos/downloads/AI%20Question%20Wording%20Updates.pdf\", \"published\": \"2025-12-03\", \"observed\": \"New series begins with release 2025-12-04\", \"population\": \"US businesses in BTOS coverage\", \"definition\": \"Question changed from producing goods/services to any business function.\", \"finding\": \"Census identifies a level shift and starts a new series.\", \"limitation\": \"A measurement break is not evidence of acceleration across the break; document is not a current installed-base count.\", \"accessed\": \"2026-10-26\"}, {\"id\": \"D4\", \"title\": \"Allen Monitoring AI Adoption in the US Economy\", \"url\": \"https://www.federalreserve.gov/econres/notes/feds-notes/monitoring-ai-adoption-in-the-u-s-economy-20260403.html\", \"published\": \"2026-04-03\", \"observed\": \"Through 2025; see source for survey-specific windows\", \"population\": \"Compares firms, individual workers and workforce-weighted exposure\", \"definition\": \"Different samples and units of analysis\", \"finding\": \"The note explains why business and individual survey rates differ.\", \"limitation\": \"Used for measurement interpretation, not the latest October 2026 prevalence.\", \"accessed\": \"2026-10-26\"}, {\"id\": \"T1\", \"title\": \"Everett M Rogers Diffusion of Innovations fifth edition\", \"url\": \"https://www.simonandschuster.com/books/Diffusion-of-Innovations-5th-Edition/Everett-M-Rogers/9780743258234\", \"published\": \"2003\", \"observed\": \"Conceptual source; no present-day diffusion measurement\", \"population\": \"Framework for innovation diffusion through social systems\", \"definition\": \"Adopter categories and perceived innovation attributes\", \"finding\": \"Course-specified framework: relative advantage, compatibility, complexity, trialability and observability.\", \"limitation\": \"Publisher page verifies bibliographic identity; definitions are operationalized from the assigned memo, not quoted from an accessed full book.\", \"accessed\": \"2026-10-26\"}]"
+}
+
+# REQUIRED OUTPUT SCHEMA
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "MASY1800 Specialist Agent Output",
+  "type": "object",
+  "required": [
+    "agent",
+    "analytical_question",
+    "general_et_finding",
+    "application_finding",
+    "organization_specific_finding",
+    "evidence",
+    "contrary_evidence_or_limitations",
+    "confidence_and_uncertainty",
+    "value_opportunity_implication",
+    "risk_governance_implication",
+    "recommendation_management_implication",
+    "change_monitoring_triggers",
+    "abstention_or_more_information_needed"
+  ],
+  "properties": {
+    "agent": {
+      "type": "object",
+      "required": [
+        "name",
+        "specialty",
+        "version"
+      ],
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "specialty": {
+          "type": "string"
+        },
+        "version": {
+          "type": "string"
+        }
+      }
+    },
+    "analytical_question": {
+      "type": "string"
+    },
+    "general_et_finding": {
+      "type": "string"
+    },
+    "application_finding": {
+      "type": "string"
+    },
+    "organization_specific_finding": {
+      "type": "string"
+    },
+    "evidence": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "claim",
+          "source_or_reference",
+          "date_or_recency",
+          "evidence_type",
+          "notes"
+        ],
+        "properties": {
+          "claim": {
+            "type": "string"
+          },
+          "source_or_reference": {
+            "type": "string"
+          },
+          "date_or_recency": {
+            "type": "string"
+          },
+          "evidence_type": {
+            "type": "string"
+          },
+          "notes": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "contrary_evidence_or_limitations": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "confidence_and_uncertainty": {
+      "type": "string"
+    },
+    "value_opportunity_implication": {
+      "type": "string"
+    },
+    "risk_governance_implication": {
+      "type": "string"
+    },
+    "recommendation_management_implication": {
+      "type": "string"
+    },
+    "change_monitoring_triggers": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "abstention_or_more_information_needed": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "additionalProperties": false
+}
+
+Return JSON only. Use the evidence discipline above. If current external evidence is required and you cannot verify it, state the limitation rather than inventing support.

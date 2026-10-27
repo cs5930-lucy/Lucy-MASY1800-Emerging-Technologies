@@ -1,0 +1,62 @@
+[
+  {
+    "id": "D1",
+    "title": "Bick et al What Work Does Generative AI Do author account",
+    "url": "https://www.stlouisfed.org/on-the-economy/2026/sep/what-work-does-generative-ai-do",
+    "published": "2026-09-01",
+    "observed": "August 2024 and May 2026",
+    "population": "United States; RPS adults aged 18 to 64; work-use measure among workers",
+    "definition": "Self-reported generative-AI use for jobs, not business installations or the complete proposed workflow.",
+    "finding": "Work-use share rose from 33% to 45% between the stated observations.",
+    "limitation": "Author summary of original survey research; not a matched textile-marketing denominator or an audited deployment measure.",
+    "accessed": "2026-10-26"
+  },
+  {
+    "id": "D2",
+    "title": "ONS Artificial intelligence in UK businesses 2023 to 2026",
+    "url": "https://www.ons.gov.uk/businessindustryandtrade/business/businessservices/articles/artificialintelligenceinukbusinesses/2023to2026",
+    "published": "2026-07-20",
+    "observed": "Late 2023 to June 2026; June evidence uses BICS Wave 159",
+    "population": "UK BICS businesses; cited headline comparison is businesses with 10 or more employees; excluded industries listed in methods.",
+    "definition": "Any listed AI technology; the measure does not distinguish light use from embedded production.",
+    "finding": "Headline use increased from around 12% to around 35% in that population.",
+    "limitation": "All AI, not solely generative AI; UK geography and size threshold do not match the hypothetical US/China team.",
+    "accessed": "2026-10-26"
+  },
+  {
+    "id": "D3",
+    "title": "US Census Bureau BTOS AI Core Question Updates",
+    "url": "https://www.census.gov/hfp/btos/downloads/AI%20Question%20Wording%20Updates.pdf",
+    "published": "2025-12-03",
+    "observed": "New series begins with release 2025-12-04",
+    "population": "US businesses in BTOS coverage",
+    "definition": "Question changed from producing goods/services to any business function.",
+    "finding": "Census identifies a level shift and starts a new series.",
+    "limitation": "A measurement break is not evidence of acceleration across the break; document is not a current installed-base count.",
+    "accessed": "2026-10-26"
+  },
+  {
+    "id": "D4",
+    "title": "Allen Monitoring AI Adoption in the US Economy",
+    "url": "https://www.federalreserve.gov/econres/notes/feds-notes/monitoring-ai-adoption-in-the-u-s-economy-20260403.html",
+    "published": "2026-04-03",
+    "observed": "Through 2025; see source for survey-specific windows",
+    "population": "Compares firms, individual workers and workforce-weighted exposure",
+    "definition": "Different samples and units of analysis",
+    "finding": "The note explains why business and individual survey rates differ.",
+    "limitation": "Used for measurement interpretation, not the latest October 2026 prevalence.",
+    "accessed": "2026-10-26"
+  },
+  {
+    "id": "T1",
+    "title": "Everett M Rogers Diffusion of Innovations fifth edition",
+    "url": "https://www.simonandschuster.com/books/Diffusion-of-Innovations-5th-Edition/Everett-M-Rogers/9780743258234",
+    "published": "2003",
+    "observed": "Conceptual source; no present-day diffusion measurement",
+    "population": "Framework for innovation diffusion through social systems",
+    "definition": "Adopter categories and perceived innovation attributes",
+    "finding": "Course-specified framework: relative advantage, compatibility, complexity, trialability and observability.",
+    "limitation": "Publisher page verifies bibliographic identity; definitions are operationalized from the assigned memo, not quoted from an accessed full book.",
+    "accessed": "2026-10-26"
+  }
+]
