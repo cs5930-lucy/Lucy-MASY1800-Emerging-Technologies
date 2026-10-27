@@ -1,0 +1,16 @@
+v0_1_primary.json: supplied basic validator and all declared structural constraints passed
+v0_2_application_contrast.json: supplied basic validator and all declared structural constraints passed
+v0_2_contrast_1.json: supplied basic validator and all declared structural constraints passed
+v0_2_contrast_2.json: supplied basic validator and all declared structural constraints passed
+v0_2_denominator_hype.json: supplied basic validator and all declared structural constraints passed
+v0_2_primary.json: supplied basic validator and all declared structural constraints passed
+Input isolation passed for aggressive, conservative, application and hype contrasts.
+All five factors are present in every revised response; semantic quality is manually assessed.
+v0_1_primary.txt SHA256 61975d635d46a741117727428482590a94b818686749d91a59ef96098d5442a0
+v0_2_application_contrast.txt SHA256 f32ed8f6bd9751dab42f02984fb66d98a14896eab5076d689e4b2e68edf3a852
+v0_2_contrast_1.txt SHA256 be890cc6ab42f765c71921595cf7e0c7c10292db4dbc8ad89193c0a94d629fd3
+v0_2_contrast_2.txt SHA256 bdce7fd35435b68c756d627b98d798cee1b55e0dc2b4c6da943ff6ec3fa0e9a1
+v0_2_denominator_hype.txt SHA256 936cbdbb16ac749aa369815b08c681d0f80f62479526391cf4ddb83fa73b2c45
+v0_2_primary.txt SHA256 80c33db49732359c90a8803766a563f290525802df01cd1dc1a289c45f80bedc
+FROZEN CORE INTACT
+Saved outputs are same-conversation analytical examples; no blind execution, repeated-run robustness, Canva integration or measured saving is claimed.

@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-26",
+  "current_answers": {
+    "main_barrier": "Checking technical claims",
+    "preferred_next_step": "Small internal comparison with approved tasks and final human review"
+  },
+  "prior_visible_inputs": {
+    "workflow": "Specification screenshots and raw product images into headline, three specifications, caption, image placement and Canva mockup",
+    "review_role": "Check technical meaning, final wording and final design; retouch drafts",
+    "target": "80% efficiency goal, untested and undefined",
+    "tradeoff": "Smaller reliable gains are acceptable"
+  },
+  "provenance": "Current answers were selected by Lucy; prose interpreting them is AI-assisted rather than verbatim."
+}

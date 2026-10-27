@@ -32,7 +32,7 @@
     "population": "US businesses in BTOS coverage",
     "definition": "Question changed from producing goods/services to any business function.",
     "finding": "Census identifies a level shift and starts a new series.",
-    "limitation": "A measurement break is not evidence of acceleration across the break; document is not a current installed-base count.",
+    "limitation": "A measurement break is not evidence of acceleration across the break; document is not a current installed-base count. Full original retrieval timed out; the wording change is cross-checked in official Federal Reserve D4, not represented as a fully inspected Census PDF.",
     "accessed": "2026-10-26"
   },
   {
@@ -57,6 +57,18 @@
     "definition": "Adopter categories and perceived innovation attributes",
     "finding": "Course-specified framework: relative advantage, compatibility, complexity, trialability and observability.",
     "limitation": "Publisher page verifies bibliographic identity; definitions are operationalized from the assigned memo, not quoted from an accessed full book.",
+    "accessed": "2026-10-26"
+  },
+  {
+    "id": "D5",
+    "title": "Bick Blandin Deming RPS work-use series hosted on FRED",
+    "url": "https://fred.stlouisfed.org/series/RPSGENAIUSAGESHAREWORK",
+    "published": "Series updated 2026-10-20 10:40 AM CDT",
+    "observed": "Q2 2026 and Q3 2026",
+    "population": "US employed adults aged 18 to 64; RPS nationally representative online labor-market survey",
+    "definition": "Share reporting generative AI use for their job; quarterly, not seasonally adjusted.",
+    "finding": "Q2 2026 45.19932%; Q3 2026 40.54550%.",
+    "limitation": "Self report, not installed business workflows; no inference of a durable reversal from one quarter without uncertainty analysis.",
     "accessed": "2026-10-26"
   }
 ]

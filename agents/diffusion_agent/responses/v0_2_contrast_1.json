@@ -1,0 +1,43 @@
+{
+  "agent": {
+    "name": "Emerging Technology Diffusion Agent",
+    "specialty": "Diffusion factors peer evidence and bounded timing implications",
+    "version": "0.2"
+  },
+  "analytical_question": "What diffusion evidence and factors inform timing for this application and organization without deciding adoption?",
+  "general_et_finding": "The same dated evidence supports substantial but heterogeneous generative-AI work use. D5’s recent observation is lower than the previous one; exact diffusion trajectory is uncertain. There is no basis to assign all organizations, textiles or RAG-integrated content workflows a single Rogers category.",
+  "application_finding": "The complete application remains unmeasured among matched peers. Relative advantage is unknown until final effort and quality are compared. Compatibility is mixed because the Canva/source handoff is untested. Complexity is a likely verification burden. Trialability may help a bounded nonpublishing exercise. Observability requires accepted-output and source/effort logs. Each mapping is a case inference, not a new population observation.",
+  "organization_specific_finding": "Only adoption_posture differs from primary. Aggressive behavior is innovator/early-adopter-like in willingness to learn with weak reference evidence, but no measured rank is claimed. The same owner, technical review and sources remain necessary. Internal content and technical owners are possible change agents, not verified opinion leaders; source libraries and design handoffs remain complements.",
+  "evidence": [
+    {
+      "claim": "Defined-population work-use data do not measure complete workflow deployment.",
+      "source_or_reference": "D5 https://fred.stlouisfed.org/series/RPSGENAIUSAGESHAREWORK",
+      "date_or_recency": "Published/updated Series updated 2026-10-20 10:40 AM CDT; observed Q2 2026 and Q3 2026; accessed 2026-10-26",
+      "evidence_type": "Official survey data",
+      "notes": "US employed adults aged 18 to 64; RPS nationally representative online labor-market survey | Share reporting generative AI use for their job; quarterly, not seasonally adjusted. | Self report, not installed business workflows; no inference of a durable reversal from one quarter without uncertainty analysis."
+    },
+    {
+      "claim": "The note explains why business and individual survey rates differ.",
+      "source_or_reference": "D4 https://www.federalreserve.gov/econres/notes/feds-notes/monitoring-ai-adoption-in-the-u-s-economy-20260403.html",
+      "date_or_recency": "Published/updated 2026-04-03; observed Through 2025; see source for survey-specific windows; accessed 2026-10-26",
+      "evidence_type": "Official analysis or original researcher account",
+      "notes": "Compares firms, individual workers and workforce-weighted exposure | Different samples and units of analysis | Used for measurement interpretation, not the latest October 2026 prevalence."
+    }
+  ],
+  "contrary_evidence_or_limitations": [
+    "Enthusiasm does not add diffusion evidence.",
+    "The full workflow and RAG component have no matched installed-base measure."
+  ],
+  "confidence_and_uncertainty": "Confidence in broad measured signals is unchanged; application stage and organization rank remain uncertain.",
+  "value_opportunity_implication": "Earlier learning may reduce uncertainty, without an established saving.",
+  "risk_governance_implication": "Do not relax claim verification or publication approval because risk appetite changed.",
+  "recommendation_management_implication": "Consider front-loading an approved component demonstration and collecting peer evidence in parallel within the proposed horizon. This is a learning-timing implication, not authorization for full adoption.",
+  "change_monitoring_triggers": [
+    "Move to a workflow comparison only after owner-approved protocol and source controls exist.",
+    "Reassess general findings only when source evidence changes."
+  ],
+  "abstention_or_more_information_needed": [
+    "No actual Rogers rank or peer-leading claim.",
+    "Matched peer use, full handoff feasibility and baseline effort remain missing."
+  ]
+}
