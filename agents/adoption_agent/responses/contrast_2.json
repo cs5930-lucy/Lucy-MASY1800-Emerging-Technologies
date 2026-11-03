@@ -1,0 +1,42 @@
+{
+  "agent": {
+    "name": "Emerging Technology Adoption Agent",
+    "specialty": "Contextual adoption decisions",
+    "version": "0.2"
+  },
+  "analytical_question": "What adoption action is justified for this application over four weeks?",
+  "general_et_finding": "Generative AI is established enough for assisted writing experiments. Controlled writing gains and observed worker use do not establish reliable extraction, matched product images or net savings in this workflow.",
+  "application_finding": "Captions and layout drafts can be edited. A wrong unit, product revision or image may survive a fluent rewrite. Compare the existing manual Canva workflow with AI drafting plus the same technical review and retouching.",
+  "organization_specific_finding": "A fast-follower preference survives, but permission to use files and a workspace and the availability of a reviewer are unknown.",
+  "evidence": [
+    {
+      "claim": "Access to ChatGPT reduced average time by 40% on sampled professional writing tasks.",
+      "source_or_reference": "https://doi.org/10.1126/science.adh2586",
+      "date_or_recency": "2023 experiment",
+      "evidence_type": "Original randomized study",
+      "notes": "No screenshot extraction, product verification or Canva comparison; do not transfer the effect size."
+    },
+    {
+      "claim": "About 45% of employed respondents reported using generative AI for their job in Q2 2026.",
+      "source_or_reference": "https://fred.stlouisfed.org/series/RPSGENAIUSAGESHAREWORK",
+      "date_or_recency": "Q2 2026 observation",
+      "evidence_type": "Survey series, St. Louis Fed",
+      "notes": "Worker denominator, any job use; no evidence of peer deployment for this workflow."
+    }
+  ],
+  "contrary_evidence_or_limitations": [
+    "Experiment and proof of concept both presume an authorized workspace. Monitoring external adoption cannot resolve local permission.",
+    "Neither cited population measures accuracy or peer deployment of this end-to-end textile workflow."
+  ],
+  "confidence_and_uncertainty": "High confidence in the stated permission boundary; moderate confidence in the action conditional on case assumptions; net productivity and residual error rates unknown.",
+  "value_opportunity_implication": "Net staff minutes per accepted draft determines relative advantage; fast first drafts alone can shift effort to the technical reviewer.",
+  "risk_governance_implication": "Trace numbers and units to the current product sheet, match image IDs and prohibit automatic publication. Sustained reviewer staffing and training belong to the Organizational Adoption Agent.",
+  "recommendation_management_implication": "Defer. No processing now. Within five working days the content lead requests written scope from the data owner, approved workspace confirmation, authoritative versioned sheets and a named technical reviewer. Keep the manual workflow.",
+  "change_monitoring_triggers": [
+    "If all prerequisites are confirmed, propose the four-week paired archive comparison; require a separate decision before any release.",
+    "If controls are denied or unresolved at the five-day review, retain the manual path and assign a dated follow-up to the owner."
+  ],
+  "abstention_or_more_information_needed": [
+    "Abstain from judging feasibility or return on investment. Ask the Organizational Adoption Agent who can sustain training and review capacity."
+  ]
+}

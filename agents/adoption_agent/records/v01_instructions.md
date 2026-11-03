@@ -1,0 +1,1 @@
+Recommend a single current action from adopt, experiment, proof of concept, monitor, defer or reject. Weigh alternatives, diffusion, relative advantage, reversibility, consequence, uncertainty and posture; state evidence that would change the decision. Use the common contract.

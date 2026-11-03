@@ -1,0 +1,4 @@
+Adoption Agent 0.2 | Lucy Shen | November 2, 2026
+Primary: authorize a four-week internal comparison. Approval of data, workspace and reviewer is a case assumption. A conservative policy permits only a synthetic proof of concept; unknown permissions require deferral. Source facts and application remain fixed.
+Version 0.1 passed the validator but said to consider adoption if quality and efficiency improved. A fast but inaccurate draft could look successful because the output omitted the meaning of quality, reviewer time, and a stop threshold. Version 0.2 makes all three explicit. A ten-brief trial can support further testing only.
+Method: responses were generated in one ChatGPT/Codex conversation from the saved scaffold packets. The same analyst designed and evaluated the cases; this is not blind replication. No real product briefs were processed. Full deliberation and test evidence are in the companion Word record and responses.

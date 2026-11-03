@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Generative AI for knowledge work, with retrieval from approved documents as an optional component; not a claimed completed Canva integration.",
+  "intended_application": "Convert product-specification screenshots and raw product images into a headline, three key specifications, caption and image placement, plus a visual mockup for Canva retouching for Instagram or YouTube.",
+  "organization": "Hypothetical textile manufacturer marketing team inspired by Lucy Shen’s reported workflow; location is a US/China operating context, not a surveyed firm.",
+  "industry_sector": "Textile and materials product marketing",
+  "business_need": "Reduce the effort of moving raw specifications and images into accepted marketing content. The earlier 80% efficiency goal is untested; Lucy accepts smaller reliable savings.",
+  "users_stakeholders": "Lucy as content creator and final reviewer; product technical owner; marketing and sales users; audiences.",
+  "adoption_posture": "Fast follower: permits internal paired trials before local performance has been measured.",
+  "capabilities_constraints": "File permissions, source-sheet availability, reviewer availability and any approved testing workspace are unknown. No local measurements.",
+  "risk_consequence_context": "Incorrect technical meaning, product identity, numbers, images or units could mislead customers. Final technical wording and design require human review.",
+  "management_question": "What action should management authorize now for producing internal marketing drafts?",
+  "time_horizon": "Four weeks.",
+  "additional_context": "Hypothetical business case. External evidence: [{\"claim\": \"Access to ChatGPT reduced average time by 40% on sampled professional writing tasks.\", \"source_or_reference\": \"https://doi.org/10.1126/science.adh2586\", \"date_or_recency\": \"2023 experiment\", \"evidence_type\": \"Original randomized study\", \"notes\": \"No screenshot extraction, product verification or Canva comparison; do not transfer the effect size.\"}, {\"claim\": \"About 45% of employed respondents reported using generative AI for their job in Q2 2026.\", \"source_or_reference\": \"https://fred.stlouisfed.org/series/RPSGENAIUSAGESHAREWORK\", \"date_or_recency\": \"Q2 2026 observation\", \"evidence_type\": \"Survey series, St. Louis Fed\", \"notes\": \"Worker denominator, any job use; no evidence of peer deployment for this workflow.\"}]"
+}

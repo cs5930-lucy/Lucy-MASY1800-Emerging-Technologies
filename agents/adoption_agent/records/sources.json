@@ -1,0 +1,16 @@
+[
+  {
+    "claim": "Access to ChatGPT reduced average time by 40% on sampled professional writing tasks.",
+    "source_or_reference": "https://doi.org/10.1126/science.adh2586",
+    "date_or_recency": "2023 experiment",
+    "evidence_type": "Original randomized study",
+    "notes": "No screenshot extraction, product verification or Canva comparison; do not transfer the effect size."
+  },
+  {
+    "claim": "About 45% of employed respondents reported using generative AI for their job in Q2 2026.",
+    "source_or_reference": "https://fred.stlouisfed.org/series/RPSGENAIUSAGESHAREWORK",
+    "date_or_recency": "Q2 2026 observation",
+    "evidence_type": "Survey series, St. Louis Fed",
+    "notes": "Worker denominator, any job use; no evidence of peer deployment for this workflow."
+  }
+]
