@@ -1,6 +1,13 @@
+clean_pass.json: VALIDATION PASSED
 contrast_1.json: VALIDATION PASSED
 contrast_2.json: VALIDATION PASSED
 primary.json: VALIDATION PASSED
+speed_error.json: VALIDATION PASSED
 v01_primary.json: VALIDATION PASSED
 FROZEN CORE INTACT
-Compared input fields: contrast 1 differs only in adoption_posture; contrast 2 only in capabilities_constraints.
+primary decision check: Experiment.
+contrast_1 decision check: Proof of concept.
+contrast_2 decision check: Defer.
+speed_error decision check: Defer expansion.
+clean_pass decision check: Experiment.
+General finding unchanged in all five current responses. Decision checks apply to saved examples, not future runs.

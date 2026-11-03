@@ -2,7 +2,7 @@
   "agent": {
     "name": "Emerging Technology Adoption Agent",
     "specialty": "Contextual adoption decisions",
-    "version": "0.2"
+    "version": "0.3"
   },
   "analytical_question": "What adoption action is justified for this application over four weeks?",
   "general_et_finding": "Generative AI is established enough for assisted writing experiments. Controlled writing gains and observed worker use do not establish reliable extraction, matched product images or net savings in this workflow.",

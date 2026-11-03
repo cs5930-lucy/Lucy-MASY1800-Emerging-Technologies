@@ -1,0 +1,47 @@
+{
+  "agent": {
+    "name": "Emerging Technology Adoption Agent",
+    "specialty": "Contextual adoption decisions",
+    "version": "0.3"
+  },
+  "analytical_question": "What action follows from the supplied hypothetical results?",
+  "general_et_finding": "Generative AI is established enough for assisted writing experiments. Controlled writing gains and observed worker use do not establish reliable extraction, matched product images or net savings in this workflow.",
+  "application_finding": "Captions and layout drafts can be edited. A wrong unit, product revision or image may survive a fluent rewrite. Compare the existing manual Canva workflow with AI drafting plus the same technical review and retouching.",
+  "organization_specific_finding": "The speed conditions pass in the simulation. The material-error veto is triggered.",
+  "evidence": [
+    {
+      "claim": "Access to ChatGPT reduced average time by 40% on sampled professional writing tasks.",
+      "source_or_reference": "https://doi.org/10.1126/science.adh2586",
+      "date_or_recency": "2023 experiment",
+      "evidence_type": "Original randomized study",
+      "notes": "No screenshot extraction, product verification or Canva comparison; do not transfer the effect size."
+    },
+    {
+      "claim": "About 45% of employed respondents reported using generative AI for their job in Q2 2026.",
+      "source_or_reference": "https://fred.stlouisfed.org/series/RPSGENAIUSAGESHAREWORK",
+      "date_or_recency": "Q2 2026 observation",
+      "evidence_type": "Survey series, St. Louis Fed",
+      "notes": "Worker denominator, any job use; no evidence of peer deployment for this workflow."
+    },
+    {
+      "claim": "Nine faster; median saving 22%; one wrong unit after signoff.",
+      "source_or_reference": "cases/speed_error.json",
+      "date_or_recency": "Scenario fixture",
+      "evidence_type": "Simulated, not observed",
+      "notes": "Exercises decision rules only."
+    }
+  ],
+  "contrary_evidence_or_limitations": [
+    "A ten-brief simulation cannot estimate the frequency of rare errors."
+  ],
+  "confidence_and_uncertainty": "High confidence in applying the pre-agreed rule to the fixture. Actual performance remains unknown.",
+  "value_opportunity_implication": "Net staff minutes per accepted draft determines relative advantage; fast first drafts alone can shift effort to the technical reviewer.",
+  "risk_governance_implication": "Trace numbers and units to the current product sheet, match image IDs and prohibit automatic publication. Sustained reviewer staffing and training belong to the Organizational Adoption Agent.",
+  "recommendation_management_implication": "Defer expansion. Pause the assisted trial, quarantine the affected draft, trace the unit against the locked sheet and investigate why signoff failed. Keep the manual workflow.",
+  "change_monitoring_triggers": [
+    "Restart only after correcting the source-to-draft check and independently retesting the failed unit and comparable cases."
+  ],
+  "abstention_or_more_information_needed": [
+    "No production permission or actual pilot evidence is supplied."
+  ]
+}

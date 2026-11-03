@@ -2,7 +2,7 @@
   "agent": {
     "name": "Emerging Technology Adoption Agent",
     "specialty": "Contextual adoption decisions",
-    "version": "0.2"
+    "version": "0.3"
   },
   "analytical_question": "What adoption action is justified for this application over four weeks?",
   "general_et_finding": "Generative AI is established enough for assisted writing experiments. Controlled writing gains and observed worker use do not establish reliable extraction, matched product images or net savings in this workflow.",
@@ -29,11 +29,11 @@
     "Neither cited population measures accuracy or peer deployment of this end-to-end textile workflow."
   ],
   "confidence_and_uncertainty": "High confidence in the stated permission boundary; moderate confidence in the action conditional on case assumptions; net productivity and residual error rates unknown.",
-  "value_opportunity_implication": "Net staff minutes per accepted draft determines relative advantage; fast first drafts alone can shift effort to the technical reviewer.",
+  "value_opportunity_implication": "For each brief calculate (manual total staff minutes minus assisted total staff minutes) divided by manual minutes, then take the median of the paired percentages. Log reviewer minutes separately. Price tool fees and reviewer time before scaling.",
   "risk_governance_implication": "Trace numbers and units to the current product sheet, match image IDs and prohibit automatic publication. Sustained reviewer staffing and training belong to the Organizational Adoption Agent.",
-  "recommendation_management_implication": "Experiment. Over four weeks the creator and technical reviewer compare both methods on ten approved archived briefs. Alternate which method goes first; use identical deliverables. Time drafting, correction, checking and Canva finishing through acceptance. Keep all outputs internal.",
+  "recommendation_management_implication": "Experiment. Over four weeks the creator and technical reviewer compare both methods on ten approved archived briefs. Alternate which method goes first; use identical deliverables. Time drafting, correction, checking and Canva finishing through acceptance. Keep all outputs internal. Lock the source revision, approved claims and image ID before drafting. Mask method labels for a separate auditor where feasible. If there is no independent auditor, report quality as unverified and do not advance.",
   "change_monitoring_triggers": [
-    "Proposed gate: at least 8 of 10 briefs faster and median paired reduction in total staff minutes at least 15%, with no material error after review. Passing warrants a larger supervised trial only.",
+    "Before testing, agree the minimum useful savings, reviewer capacity and quality veto. Provisional advancement rule: all ten completed, eight faster, median paired saving at least 15%, zero surviving material errors, reviewer within capacity. Record all labor, including rejected attempts. Pass funds a larger internal test only.",
     "Pause immediately for a wrong number, unit, product revision or image remaining after signoff, or an unauthorized input. Correct and investigate before restart. At week four retain manual work if savings miss the gate."
   ],
   "abstention_or_more_information_needed": [
