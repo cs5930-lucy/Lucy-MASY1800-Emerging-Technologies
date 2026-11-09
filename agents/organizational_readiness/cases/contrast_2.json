@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Item-level passive UHF RFID in apparel retail",
+  "intended_application": "Weekly shadow cycle count for one denim category at one store, with manual discrepancy reconciliation. No automatic ledger writes.",
+  "organization": "Fictional regional apparel retailer; pilot store profile.",
+  "industry_sector": "Apparel retail",
+  "business_need": "Find size/color stock discrepancies without corrupting the inventory ledger.",
+  "users_stakeholders": "Store associates, shift leads, Inventory Controller and retail operations sponsor.",
+  "adoption_posture": "Fast follower; controlled shadow pilots permitted.",
+  "capabilities_constraints": "Sponsor funds four weeks of one-store shadow counts. Two shift leads passed a count exercise; staff logged a mismatch without penalty. Stockroom has a reader, verified tag-to-SKU list and barcode recount procedure. Inventory Controller approves ledger corrections after recount; scans cannot write to the ledger. One named floor lead plus a trained deputy can collect counts. Both shifts have reserved count time. The file says nothing about off-duty discrepancy coverage, escalation drills or recurring funding.",
+  "risk_consequence_context": "An unresolved mismatch can produce a wrong availability promise. The manual count remains authoritative.",
+  "management_question": "Can both shifts operate a four-week shadow pilot now, and can the retailer sustain routine use?",
+  "time_horizon": "Four-week pilot; reassess before recurring operation.",
+  "additional_context": "All organizational statements are synthetic case premises, not observations of any actual employer. External evidence: {\"claim\": \"I.T.\\u2019S. international used individually tagged garments for inventory counts in apparel stores.\", \"source_or_reference\": \"https://www.gs1.org/sites/default/files/docs/casestudies/GS1Japan_EPCRFIDCaseStudy_InventoryMgtApparel_ITS.pdf\", \"date_or_recency\": \"GS1 Japan case study, 2012; reviewed November 8, 2026.\", \"evidence_type\": \"Historical deployment case\", \"notes\": \"Establishes precedent; no transfer of time savings or present staffing readiness.\"}"
+}
