@@ -1,0 +1,1 @@
+Prediction recorded before generating the response: despite the same signed roster, protected time and trained deputy, hold the two-shift pilot when the handoff drill fails. Keep the manual ledger authoritative, repair and repeat the drill. A daytime read-only rehearsal may test scanning, never closing coverage. Compare against contrast_1, where only the drill outcome differs.

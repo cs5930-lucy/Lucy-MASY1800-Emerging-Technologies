@@ -1,0 +1,41 @@
+{
+  "agent": {
+    "name": "Organizational Adoption Agent",
+    "specialty": "Operational readiness and sustained ownership",
+    "version": "0.3"
+  },
+  "analytical_question": "Can both shifts operate a four-week shadow pilot now, and can the retailer sustain routine use?",
+  "general_et_finding": "An item tag can identify an individual garment during a count; the GS1 case establishes deployment precedent, not local accuracy.",
+  "application_finding": "Comparing a shadow count of denim with manual recounts can expose stock discrepancies. A tag read alone cannot establish which stock record needs correction.",
+  "organization_specific_finding": "Sponsorship supported: four-week sponsor commitment. Skills supported for counting: two leads passed exercise. Workflow gap: the drill logged a mismatch but no one accepted or escalated it. Infrastructure/data supported for scope: reader, verified tag mapping and barcode fallback. Resources mixed: pilot funded; operating budget ends at week four. Governance supported for corrections: controller approval and no scan writeback. Culture/change partially supported: one reported mismatch without penalty, too little to infer store-wide trust. Operating ownership gap: a signed roster names cover, but the observed drill contradicts effective coverage.",
+  "evidence": [
+    {
+      "claim": "I.T.\u2019S. international used individually tagged garments for inventory counts in apparel stores.",
+      "source_or_reference": "https://www.gs1.org/sites/default/files/docs/casestudies/GS1Japan_EPCRFIDCaseStudy_InventoryMgtApparel_ITS.pdf",
+      "date_or_recency": "GS1 Japan case study, 2012; reviewed November 8, 2026.",
+      "evidence_type": "Historical deployment case",
+      "notes": "Establishes precedent; no transfer of time savings or present staffing readiness."
+    },
+    {
+      "claim": "Sponsor funds four weeks of one-store shadow counts. Two shift leads passed a count exercise; staff logged a mismatch without penalty. Stockroom has a reader, verified tag-to-SKU list and barcode recount procedure. Inventory Controller approves ledger corrections after recount; scans cannot write to the ledger. One named floor lead plus a trained deputy can collect counts. Both shifts have reserved count time. A signed roster gives the closing lead and deputy queue coverage, recount time and escalation to the controller before any correction. In the completed drill the deputy logged the mismatch; nobody accepted or escalated it by shift close. The ledger stayed unchanged. No ongoing budget beyond week four.",
+      "source_or_reference": "cases/failed_handoff.json",
+      "date_or_recency": "November 8, 2026 scenario",
+      "evidence_type": "Synthetic intake premise",
+      "notes": "Accepted for the exercise; not audited employer records."
+    }
+  ],
+  "contrary_evidence_or_limitations": [
+    "Roster and training support preparation. The synthetic drill is stronger evidence about actual handoff behavior; one failed drill does not show RFID failed."
+  ],
+  "confidence_and_uncertainty": "High confidence in the scoped judgment given the case facts; actual execution is unverified.",
+  "value_opportunity_implication": "Count fully reconciled size/color discrepancies and total staff time, including exception work. Fast scanning alone cannot show operational value.",
+  "risk_governance_implication": "Keep scans read-only. Escalate unresolved records rather than silently adjusting stock; controller retains correction authority.",
+  "recommendation_management_implication": "Hold the two-shift pilot. Keep manual counts authoritative. Have store operations agree who acknowledges the queue and by when; repeat the closing drill with the controller unavailable. Require recorded acceptance or escalation before authorizing both shifts. Daytime read-only practice tests scanning only.",
+  "change_monitoring_triggers": [
+    "Repeat the failed handoff. A signed roster alone does not reverse the hold.",
+    "Proposed week-four rule: sponsor may consider routine use only with a complete exception log, every discrepancy accepted by a named owner or explicitly escalated by shift close, no overdue unresolved cases, zero unauthorized ledger corrections, and a funded roster whose reserved hours cover measured work. Missing logs: withhold. A missed handoff: hold, repair and retest. An unauthorized correction: stop immediately and investigate."
+  ],
+  "abstention_or_more_information_needed": [
+    "Routine use is not ready. Ask the sponsor for a recurring budget and signed staffing plan."
+  ]
+}

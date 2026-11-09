@@ -2,7 +2,7 @@
   "agent": {
     "name": "Organizational Adoption Agent",
     "specialty": "Operational readiness and sustained ownership",
-    "version": "0.2"
+    "version": "0.3"
   },
   "analytical_question": "Can both shifts operate a four-week shadow pilot now, and can the retailer sustain routine use?",
   "general_et_finding": "An item tag can identify an individual garment during a count; the GS1 case establishes deployment precedent, not local accuracy.",
@@ -30,10 +30,11 @@
   "confidence_and_uncertainty": "High confidence in the scoped judgment given the case facts; actual execution is unverified.",
   "value_opportunity_implication": "Count fully reconciled size/color discrepancies and total staff time, including exception work. Fast scanning alone cannot show operational value.",
   "risk_governance_implication": "Keep scans read-only. Escalate unresolved records rather than silently adjusting stock; controller retains correction authority.",
-  "recommendation_management_implication": "Hold both-shift pilot. First, retail operations sponsor should assign the closing queue and backup, reserve recount time and obtain acceptance. Second, store lead should stage a missing-tag case with the controller absent: log, recount, escalate and leave stock unchanged until approved. Third, sponsor must fund recurring coverage before routine use.",
+  "recommendation_management_implication": "Hold both-shift pilot. First, retail operations sponsor should assign the closing queue and backup, reserve recount time and obtain acceptance. Second, store lead should stage a missing-tag case with the controller absent: log, recount, escalate and leave stock unchanged until approved. Third, sponsor must fund recurring coverage before routine use. A staffed daytime read-only rehearsal can test tag capture now. It cannot test closing reconciliation. Waiting until morning is acceptable only under an agreed handoff with a named recipient, which this profile lacks.",
   "change_monitoring_triggers": [
     "Do not authorize both shifts until a signed roster and passed handoff drill exist.",
-    "At week four review unresolved cases by shift, recount labor and recurring ownership; send value and adoption tradeoffs to the Adoption Agent."
+    "At week four review unresolved cases by shift, recount labor and recurring ownership; send value and adoption tradeoffs to the Adoption Agent.",
+    "Proposed week-four rule: sponsor may consider routine use only with a complete exception log, every discrepancy accepted by a named owner or explicitly escalated by shift close, no overdue unresolved cases, zero unauthorized ledger corrections, and a funded roster whose reserved hours cover measured work. Missing logs: withhold. A missed handoff: hold, repair and retest. An unauthorized correction: stop immediately and investigate."
   ],
   "abstention_or_more_information_needed": [
     "Ask the sponsor who can fund and own recurring work beyond week four."

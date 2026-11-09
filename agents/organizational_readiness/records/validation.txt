@@ -1,6 +1,7 @@
-contrast_1.json VALIDATION PASSED
-contrast_2.json VALIDATION PASSED
-primary.json VALIDATION PASSED
-v01_primary.json VALIDATION PASSED
+contrast_1.json: VALIDATION PASSED
+contrast_2.json: VALIDATION PASSED
+failed_handoff.json: VALIDATION PASSED
+primary.json: VALIDATION PASSED
+v01_primary.json: VALIDATION PASSED
 FROZEN CORE INTACT
-Semantic checks: only capabilities_constraints varied; general and application findings stable; hold / pilot only / withhold observed. Four responses from one ChatGPT/Codex session, not blind independent trials. No store pilot was executed.
+Decision comparison (primary / passed drill / unknown / failed drill): hold / limited pilot / withhold / hold. Stable technology and application findings. Failed-drill prediction matched; synthetic cases in one conversation, not store trials.

@@ -2,7 +2,7 @@
   "agent": {
     "name": "Organizational Adoption Agent",
     "specialty": "Operational readiness and sustained ownership",
-    "version": "0.2"
+    "version": "0.3"
   },
   "analytical_question": "Can both shifts operate a four-week shadow pilot now, and can the retailer sustain routine use?",
   "general_et_finding": "An item tag can identify an individual garment during a count; the GS1 case establishes deployment precedent, not local accuracy.",
@@ -33,7 +33,8 @@
   "recommendation_management_implication": "Withhold the two-shift readiness judgment. First, request the accepted closing roster and handoff drill log from store operations. Second, controller should confirm the escalation path; sponsor should document ongoing resource coverage. Until then keep barcode counts authoritative.",
   "change_monitoring_triggers": [
     "A roster and successful drill would support pilot readiness; a confirmed unassigned shift would change the conclusion to hold. Revisit before scheduling.",
-    "At week four review unresolved cases by shift, recount labor and recurring ownership; send value and adoption tradeoffs to the Adoption Agent."
+    "At week four review unresolved cases by shift, recount labor and recurring ownership; send value and adoption tradeoffs to the Adoption Agent.",
+    "Proposed week-four rule: sponsor may consider routine use only with a complete exception log, every discrepancy accepted by a named owner or explicitly escalated by shift close, no overdue unresolved cases, zero unauthorized ledger corrections, and a funded roster whose reserved hours cover measured work. Missing logs: withhold. A missed handoff: hold, repair and retest. An unauthorized correction: stop immediately and investigate."
   ],
   "abstention_or_more_information_needed": [
     "Who accepts the discrepancy queue when the controller is off duty? Supply named cover, reserved time and a dated drill log. What recurring budget exists?"
