@@ -1,0 +1,1 @@
+Provide a dated landscape with alternatives, standards and a near-term recommendation. Use the evidence supplied. Return the common schema.

@@ -1,0 +1,51 @@
+{
+  "agent": {
+    "name": "Emerging Technology Landscape Agent",
+    "specialty": "Dated competitive landscape and reassessment triggers",
+    "version": "1.0"
+  },
+  "general_et_finding": "2026-11-16 | Standardized identifier syntax; deployment is workflow-specific. A phone can open a web link, while a checkout must interpret the identifier. GS1’s 2027 ambition does not measure installed compatibility. No independent market-share or unit-cost measurements in the register.",
+  "confidence_and_uncertainty": "High confidence in the distinction between syntax and deployment; low confidence in incremental value or partner readiness without local measurements.",
+  "analytical_question": "Can the next wholesale print run omit the existing UPC/EAN barcode?",
+  "application_finding": "Investigate. Compare QR-only with the existing UPC/EAN. A web page opening is irrelevant if a lane cannot ring the correct SKU once, offline as well as online.",
+  "organization_specific_finding": "Multiple lane configurations, no partner acceptance letter or test logs, and a costly print commitment make the existing linear code the stronger control.",
+  "evidence": [
+    {
+      "claim": "Defines how a product identifier can appear in a web address. Extracting identifiers requires software that understands the syntax.",
+      "source_or_reference": "S1 GS1 | Digital Link URI syntax 1.7.0 https://ref.gs1.org/standards/digital-link/uri-syntax/1.7.0/",
+      "date_or_recency": "2026-08",
+      "evidence_type": "Standards body; normative",
+      "notes": "Proves a specification exists; no installed-base or cost estimate."
+    },
+    {
+      "claim": "End-2027 is a capability ambition. A transition may require software or scanner upgrades.",
+      "source_or_reference": "S2 GS1 | 2D Barcodes at Retail POS, release 1.1, §1.2 https://ref.gs1.org/guidelines/2d-in-retail/1.1.0/GS1-2DRetailPOS-Guideline-i1.1-r-2025-12-15",
+      "date_or_recency": "2025-12",
+      "evidence_type": "Standards body; implementation guidance",
+      "notes": "Same issuer as S1; does not independently corroborate adoption."
+    },
+    {
+      "claim": "The FAQ distinguishes its DataMatrix implementation from QR acceptance. It illustrates why the exact carrier matters.",
+      "source_or_reference": "S4 Woolworths Partner Hub | GS1 DataMatrix supplier FAQs https://assets.ctfassets.net/9uypwcnuzbqi/dc4uwitNGJnYDp7Tph1EH/56ac26b6afa59391f9e01f6a85ab52c6/GS1au-Datamatrix-woolworths-reference-guide.pdf",
+      "date_or_recency": "Undated; accessed 2026-11-16",
+      "evidence_type": "Operator/supplier guidance; produced with GS1 Australia",
+      "notes": "Historical example only. Publication date unknown; cannot establish current Woolworths status or this partner’s policy."
+    }
+  ],
+  "contrary_evidence_or_limitations": [
+    "The undated Woolworths document concerns another operator and differentiates DataMatrix from QR; it is not current evidence about this apparel partner.",
+    "A target date and a device specification cannot substitute for lane results.",
+    "Three reports repeating one release count as one vendor assertion and provide zero additional independent confirmations. The 2027 ambition is especially vulnerable to being repeated as present readiness."
+  ],
+  "value_opportunity_implication": "Removing a symbol might free tag space. Compare that benefit with relabeling and checkout exception costs before a print change.",
+  "risk_governance_implication": "Partner POS owner must confirm processing and cashier fallback; preserve the working barcode.",
+  "recommendation_management_implication": "Hold QR-only printing. Retain UPC/EAN and request partner evidence; a dual-marked sandbox tag may be used for testing.",
+  "change_monitoring_triggers": [
+    "Partner manager checks monthly and before print lock for dated written acceptance of QR with GS1 Digital Link for the named products and lanes. On receipt, schedule controlled lane testing; otherwise keep UPC/EAN.",
+    "POS lead tests each target lane configuration, online/offline, sale and return, against UPC/EAN before print lock. Require correct item and single posting in every scripted test. Missing configuration or any error: retain linear code. A full pass opens a limited pilot review only.",
+    "Repeat after scanner firmware or POS software changes. Commercial owner withholds artwork release until dated partner evidence is attached."
+  ],
+  "abstention_or_more_information_needed": [
+    "Withhold any QR-only rollout verdict until partner coverage, failure costs and representative live results are available. Pass conditions are proposed gates."
+  ]
+}
