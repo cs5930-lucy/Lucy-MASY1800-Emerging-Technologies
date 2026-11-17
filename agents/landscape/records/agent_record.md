@@ -10,3 +10,10 @@ After removing the hangtag, ask shoppers how they would dry the exact garment. C
 Compare 90-day net benefit with plain URL: (minutes saved per catalog edit / 60 × loaded hourly rate × expected edits) minus incremental setup, print and hosting costs. Get both quotes and time the same catalog correction; no observed inputs yet. If savings cannot cover costs, keep plain URLs.
 
 Academic source S5 measures attitudes, not behavior. Two new synthetic boundary cases: partial holds the pilot review; covered refers a limited pilot for approval. Neither permits a QR-only print run. See the five current outputs and validation log.
+
+## Student rationale and proposed catalog test
+In my apparel work, the harder part is keeping product information accurate across variants and sales channels. Different factories sometimes measure garments differently. Before I would recommend a QR code, I’d want to know which measurement the customer will see for the size they picked and whether it matches the approved specification.
+
+Proposed catalog test: give both QR workflows the same correction for one size. First have the product team confirm the unit, where the garment was measured, and which variant the correction applies to. If the factory sheets disagree and nobody can establish the approved value, hold the edit. Once approved, time the update and check the brand’s product page, the retailer listing, and the page opened by the tag. The corrected size must match the approved value everywhere; a neighboring size must remain unchanged. If an ordinary URL passes just as reliably and takes no longer to maintain, keep it.
+
+The sourcing observation is Lucy's. The correction exercise is a proposed workflow check, not a reported factory incident or completed field trial.
