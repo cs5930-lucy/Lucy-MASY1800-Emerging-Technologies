@@ -38,5 +38,15 @@
     "observation": "The FAQ distinguishes its DataMatrix implementation from QR acceptance. It illustrates why the exact carrier matters.",
     "limit": "Historical example only. Publication date unknown; cannot establish current Woolworths status or this partner’s policy.",
     "checked": "2026-11-16"
+  },
+  {
+    "id": "S5",
+    "title": "Ghalachyan & Loranger | Gen Z attitudes to digital apparel labels",
+    "date": "2026-02-20",
+    "type": "Independent academic study; publisher abstract",
+    "url": "https://doi.org/10.1080/17543266.2026.2629836",
+    "observation": "Qualitative questionnaire: 63 students at two universities discussed apparel labels and QR codes.",
+    "limit": "Attitudes, not observed care decisions. Neither encoding method nor this brand was tested.",
+    "checked": "2026-11-16"
   }
 ]

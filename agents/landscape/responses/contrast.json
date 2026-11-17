@@ -2,7 +2,7 @@
   "agent": {
     "name": "Emerging Technology Landscape Agent",
     "specialty": "Dated competitive landscape and reassessment triggers",
-    "version": "1.0"
+    "version": "1.1"
   },
   "general_et_finding": "2026-11-16 | Standardized identifier syntax; deployment is workflow-specific. A phone can open a web link, while a checkout must interpret the identifier. GS1’s 2027 ambition does not measure installed compatibility. No independent market-share or unit-cost measurements in the register.",
   "confidence_and_uncertainty": "High confidence in the distinction between syntax and deployment; low confidence in incremental value or partner readiness without local measurements.",

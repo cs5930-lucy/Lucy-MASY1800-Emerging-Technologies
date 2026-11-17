@@ -1,10 +1,8 @@
 FROZEN CORE INTACT
-agents/landscape/responses/contrast.json
-VALIDATION PASSED
-agents/landscape/responses/hype.json
-VALIDATION PASSED
-agents/landscape/responses/primary.json
-VALIDATION PASSED
-agents/landscape/records/v01_hype_response.json
-VALIDATION PASSED
-Semantic regression checks passed: stable general finding; different application decisions; unchanged recommendation with repeated publicity.
+contrast.json: VALIDATION PASSED
+covered.json: VALIDATION PASSED
+hype.json: VALIDATION PASSED
+partial.json: VALIDATION PASSED
+primary.json: VALIDATION PASSED
+v01_hype_response.json: VALIDATION PASSED
+Passed: general finding stable in five cases; vendor echoes do not promote; missing offline logs hold pilot review; complete scripted coverage opens only a bounded review.

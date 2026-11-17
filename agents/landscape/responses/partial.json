@@ -1,0 +1,56 @@
+{
+  "agent": {
+    "name": "Emerging Technology Landscape Agent",
+    "specialty": "Dated competitive landscape and reassessment triggers",
+    "version": "1.1"
+  },
+  "general_et_finding": "2026-11-16 | Standardized identifier syntax; deployment is workflow-specific. A phone can open a web link, while a checkout must interpret the identifier. GS1’s 2027 ambition does not measure installed compatibility. No independent market-share or unit-cost measurements in the register.",
+  "confidence_and_uncertainty": "High confidence in the distinction between syntax and deployment; low confidence in incremental value or partner readiness without local measurements.",
+  "analytical_question": "Can the next wholesale print run omit the existing UPC/EAN barcode?",
+  "application_finding": "Investigate. Compare QR-only with the existing UPC/EAN. A web page opening is irrelevant if a lane cannot ring the correct SKU once, offline as well as online.",
+  "organization_specific_finding": "Two named lane configurations with signed acceptance. B lacks offline coverage, despite a signed acceptance letter.",
+  "evidence": [
+    {
+      "claim": "Defines how a product identifier can appear in a web address. Extracting identifiers requires software that understands the syntax.",
+      "source_or_reference": "S1 GS1 | Digital Link URI syntax 1.7.0 https://ref.gs1.org/standards/digital-link/uri-syntax/1.7.0/",
+      "date_or_recency": "2026-08",
+      "evidence_type": "Standards body; normative",
+      "notes": "Proves a specification exists; no installed-base or cost estimate."
+    },
+    {
+      "claim": "End-2027 is a capability ambition. A transition may require software or scanner upgrades.",
+      "source_or_reference": "S2 GS1 | 2D Barcodes at Retail POS, release 1.1, §1.2 https://ref.gs1.org/guidelines/2d-in-retail/1.1.0/GS1-2DRetailPOS-Guideline-i1.1-r-2025-12-15",
+      "date_or_recency": "2025-12",
+      "evidence_type": "Standards body; implementation guidance",
+      "notes": "Same issuer as S1; does not independently corroborate adoption."
+    },
+    {
+      "claim": "The FAQ distinguishes its DataMatrix implementation from QR acceptance. It illustrates why the exact carrier matters.",
+      "source_or_reference": "S4 Woolworths Partner Hub | GS1 DataMatrix supplier FAQs https://assets.ctfassets.net/9uypwcnuzbqi/dc4uwitNGJnYDp7Tph1EH/56ac26b6afa59391f9e01f6a85ab52c6/GS1au-Datamatrix-woolworths-reference-guide.pdf",
+      "date_or_recency": "Undated; accessed 2026-11-16",
+      "evidence_type": "Operator/supplier guidance; produced with GS1 Australia",
+      "notes": "Historical example only. Publication date unknown; cannot establish current Woolworths status or this partner’s policy."
+    },
+    {
+      "claim": "Two named lane configurations with signed acceptance. B lacks offline coverage, despite a signed acceptance letter.",
+      "source_or_reference": "Synthetic case fixture: partial",
+      "date_or_recency": "Scenario as of 2026-11-16",
+      "evidence_type": "Hypothetical internal observation",
+      "notes": "Not a real retailer record."
+    }
+  ],
+  "contrary_evidence_or_limitations": [
+    "The undated Woolworths document concerns another operator and differentiates DataMatrix from QR; it is not current evidence about this apparel partner.",
+    "A target date and a device specification cannot substitute for lane results."
+  ],
+  "value_opportunity_implication": "Removing a symbol might free tag space. Compare that benefit with relabeling and checkout exception costs before a print change.",
+  "risk_governance_implication": "Partner POS owner must confirm processing and cashier fallback; preserve the working barcode.",
+  "recommendation_management_implication": "Hold the two-lane pilot review. Have POS operations run the missing offline sale and return on B; keep the existing barcode at print lock.",
+  "change_monitoring_triggers": [
+    "Before print lock, POS operations must produce B offline sale and return logs with the right item and exactly one posting; only then open two-lane pilot review.",
+    "Before any wider print change require live results, exception costs and separate business approval."
+  ],
+  "abstention_or_more_information_needed": [
+    "No QR-only rollout decision from scripted logs. Live performance, actual cost and configurations beyond the tested scope remain unknown."
+  ]
+}

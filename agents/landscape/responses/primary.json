@@ -2,7 +2,7 @@
   "agent": {
     "name": "Emerging Technology Landscape Agent",
     "specialty": "Dated competitive landscape and reassessment triggers",
-    "version": "1.0"
+    "version": "1.1"
   },
   "general_et_finding": "2026-11-16 | Standardized identifier syntax; deployment is workflow-specific. A phone can open a web link, while a checkout must interpret the identifier. GS1’s 2027 ambition does not measure installed compatibility. No independent market-share or unit-cost measurements in the register.",
   "confidence_and_uncertainty": "High confidence in the distinction between syntax and deployment; low confidence in incremental value or partner readiness without local measurements.",
@@ -30,18 +30,26 @@
       "date_or_recency": "2025-12",
       "evidence_type": "Standards body; implementation guidance",
       "notes": "Same issuer as S1; does not independently corroborate adoption."
+    },
+    {
+      "claim": "Qualitative questionnaire: 63 students at two universities discussed apparel labels and QR codes.",
+      "source_or_reference": "Ghalachyan & Loranger | Gen Z attitudes to digital apparel labels https://doi.org/10.1080/17543266.2026.2629836",
+      "date_or_recency": "2026-02-20",
+      "evidence_type": "Independent academic study; publisher abstract",
+      "notes": "Attitudes, not observed care decisions. Neither encoding method nor this brand was tested."
     }
   ],
   "contrary_evidence_or_limitations": [
     "Ordinary brand URLs can also redirect. Scan volume cannot distinguish useful care guidance from curiosity.",
-    "No measured care accuracy, demand, labor saving or cost advantage."
+    "No measured care accuracy, demand, labor saving or cost advantage.",
+    "A removable hangtag may be gone at first wash. Even a perfect scan-to-page rate excludes the people who no longer have the tag."
   ],
-  "value_opportunity_implication": "Product-level mapping might reduce work when variants change. Count maintenance minutes and completed correct lookups under both designs.",
+  "value_opportunity_implication": "Compare 90-day net benefit with plain URL: (minutes saved per catalog edit / 60 × loaded hourly rate × expected edits) minus incremental setup, print and hosting costs. Get both quotes and time the same catalog correction; no observed inputs yet. If savings cannot cover costs, keep plain URLs.",
   "risk_governance_implication": "Product content owner approves every care page; withdraw a tag on any wrong variant. Keep printed care instructions.",
-  "recommendation_management_implication": "Experiment on two styles with matched tasks, same placement and same page. Alternate tag order; measure time to correct instructions, wrong destinations and upkeep. Prefer the plain URL on a tie.",
+  "recommendation_management_implication": "After removing the hangtag, ask shoppers how they would dry the exact garment. Count correct answers against the approved variant sheet over ALL attempts, including missing tags and abandoned lookups. Keep sewn-in care visible. Compare label alone, plain URL QR and GS1 QR on matched variants with identical content for the two QR arms; counterbalance order. Record at-purchase and later tasks separately.",
   "change_monitoring_triggers": [
     "Content owner checks every variant before printing and weekly for four weeks. Any incorrect destination: withdraw affected tag and repair mapping.",
-    "Product operations reviews at day 30: with at least 20 tasks per design and zero wrong destinations, extend testing only if GS1 saves maintenance time without worsening correct completion. Otherwise retain plain URLs; small samples do not justify rollout.",
+    "Day 30: product operations reviews at least 20 attempts per arm, separately by use moment. Zero wrong destinations; only extend if correct task completion is no worse than the best incumbent and 90-day incremental benefit is positive. Inconclusive: retain incumbent and report uncertainty.",
     "Standards lead checks revision and compatibility quarterly and before each reprint. Re-run routing tests if URI rules or domain configuration changes."
   ],
   "abstention_or_more_information_needed": [
